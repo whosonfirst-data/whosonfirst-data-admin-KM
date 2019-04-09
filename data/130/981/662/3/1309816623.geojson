@@ -1,0 +1,65 @@
+{
+  "id": 1309816623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3625,-11.5825,43.3625,-11.5825",
+    "geom:latitude":-11.5825,
+    "geom:longitude":43.3625,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dzaheni",
+    "gn:country_code":"KM",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092034,
+    "gn:latitude":-11.5825,
+    "gn:longitude":43.3625,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Dzaheni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092034
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"7d3c4ad194aacd99ae2531a5514cd8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1309816623,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1309816623,
+    "wof:lastmodified":1536915894,
+    "wof:name":"Dzaheni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3625,
+    -11.5825,
+    43.3625,
+    -11.5825
+],
+  "geometry": {"coordinates":[43.3625,-11.5825],"type":"Point"}
+}

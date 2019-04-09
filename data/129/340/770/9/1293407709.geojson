@@ -1,0 +1,65 @@
+{
+  "id": 1293407709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51167,-12.34889,44.51167,-12.34889",
+    "geom:latitude":-12.34889,
+    "geom:longitude":44.51167,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bouejou",
+    "gn:country_code":"KM",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921959,
+    "gn:latitude":-12.34889,
+    "gn:longitude":44.51167,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Bou\u00e9jou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921959
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"e9da8298c10b3825e3ac2ba5709b2031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1293407709,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1293407709,
+    "wof:lastmodified":1536902146,
+    "wof:name":"Bouejou",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51167,
+    -12.34889,
+    44.51167,
+    -12.34889
+],
+  "geometry": {"coordinates":[44.51167,-12.34889],"type":"Point"}
+}

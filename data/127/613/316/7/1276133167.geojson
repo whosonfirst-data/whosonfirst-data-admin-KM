@@ -1,0 +1,65 @@
+{
+  "id": 1276133167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41944,-12.28222,44.41944,-12.28222",
+    "geom:latitude":-12.28222,
+    "geom:longitude":44.41944,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koue",
+    "gn:country_code":"KM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091391,
+    "gn:latitude":-12.28222,
+    "gn:longitude":44.41944,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Kou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091391
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"105993e9be46a8aaf6800930894f91a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1276133167,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1276133167,
+    "wof:lastmodified":1537044903,
+    "wof:name":"Koue",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41944,
+    -12.28222,
+    44.41944,
+    -12.28222
+],
+  "geometry": {"coordinates":[44.41944,-12.28222],"type":"Point"}
+}

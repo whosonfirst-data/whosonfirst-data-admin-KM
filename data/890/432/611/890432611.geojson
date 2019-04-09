@@ -1,0 +1,64 @@
+{
+  "id": 890432611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83833,-12.37306,43.83833,-12.37306",
+    "geom:latitude":-12.37306,
+    "geom:longitude":43.83833,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":778,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hamavouna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090832,
+        "gp:id":12512356,
+        "qs:id":84097
+    },
+    "wof:country":"KM",
+    "wof:created":1469051947,
+    "wof:geomhash":"f0fda121382e03b1d9337b8825e6275d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890432611,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":890432611,
+    "wof:lastmodified":1505343530,
+    "wof:name":"Hamavouna",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:population":778,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83833,
+    -12.37306,
+    43.83833,
+    -12.37306
+],
+  "geometry": {"coordinates":[43.83833,-12.37306],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890433581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70361,-12.26111,43.70361,-12.26111",
+    "geom:latitude":-12.26111,
+    "geom:longitude":43.70361,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":1410,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mtakoudja"
+    ],
+    "name:eng_x_preferred":[
+        "Mtakoudja"
+    ],
+    "name:swe_x_preferred":[
+        "Mtakoudja"
+    ],
+    "qs:name":"Mtakoudja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090583,
+        "gp:id":1306043,
+        "qs:id":130503,
+        "wd:id":"Q6930410",
+        "wk:page":"Mtakoudja"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051986,
+    "wof:geomhash":"9dfd3f55263f80e5438a28449fb46298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890433581,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":890433581,
+    "wof:lastmodified":1527792953,
+    "wof:name":"Mtakoudja",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:population":1410,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70361,
+    -12.26111,
+    43.70361,
+    -12.26111
+],
+  "geometry": {"coordinates":[43.70361,-12.26111],"type":"Point"}
+}

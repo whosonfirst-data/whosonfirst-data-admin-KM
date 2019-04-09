@@ -1,0 +1,65 @@
+{
+  "id": 1226351157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43306,-11.77389,43.43306,-11.77389",
+    "geom:latitude":-11.77389,
+    "geom:longitude":43.43306,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Membeni",
+    "gn:country_code":"KM",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921800,
+    "gn:latitude":-11.77389,
+    "gn:longitude":43.43306,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Memb\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921800
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"e73db0994d8392bf08f4e80fe70add46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1226351157,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1226351157,
+    "wof:lastmodified":1536782073,
+    "wof:name":"Membeni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43306,
+    -11.77389,
+    43.43306,
+    -11.77389
+],
+  "geometry": {"coordinates":[43.43306,-11.77389],"type":"Point"}
+}

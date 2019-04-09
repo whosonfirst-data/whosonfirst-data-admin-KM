@@ -1,0 +1,65 @@
+{
+  "id": 1293295821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37167,-11.49556,43.37167,-11.49556",
+    "geom:latitude":-11.49556,
+    "geom:longitude":43.37167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sada Mouamboua",
+    "gn:country_code":"KM",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091992,
+    "gn:latitude":-11.49556,
+    "gn:longitude":43.37167,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Sada Mouamboua",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091992
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"c25eddeede7ca8d917b13b5b74d7cf33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1293295821,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1293295821,
+    "wof:lastmodified":1537060628,
+    "wof:name":"Sada Mouamboua",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37167,
+    -11.49556,
+    43.37167,
+    -11.49556
+],
+  "geometry": {"coordinates":[43.37167,-11.49556],"type":"Point"}
+}

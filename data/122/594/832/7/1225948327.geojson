@@ -1,0 +1,61 @@
+{
+  "id": 1225948327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30306,-12.225,44.30306,-12.225",
+    "geom:latitude":-12.225,
+    "geom:longitude":44.30306,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mro Mouhouli",
+    "gn:country_code":"KM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090945,
+    "gn:latitude":-12.225,
+    "gn:longitude":44.30306,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Mro Mouhouli",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090945
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"c84878a6b675f36ed2077e131842df7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225948327,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225948327,
+    "wof:lastmodified":1536864232,
+    "wof:name":"Mro Mouhouli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30306,
+    -12.225,
+    44.30306,
+    -12.225
+],
+  "geometry": {"coordinates":[44.30306,-12.225],"type":"Point"}
+}

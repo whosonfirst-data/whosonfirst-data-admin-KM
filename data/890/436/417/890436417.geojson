@@ -1,0 +1,64 @@
+{
+  "id": 890436417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39667,-11.88389,43.39667,-11.88389",
+    "geom:latitude":-11.88389,
+    "geom:longitude":43.39667,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":497,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mandzissani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092574,
+        "gp:id":1306030,
+        "qs:id":555105
+    },
+    "wof:country":"KM",
+    "wof:created":1469052111,
+    "wof:geomhash":"e4b3d2d11a64e914003037004bbbc65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890436417,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890436417,
+    "wof:lastmodified":1505343553,
+    "wof:name":"Mandzissani",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":497,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39667,
+    -11.88389,
+    43.39667,
+    -11.88389
+],
+  "geometry": {"coordinates":[43.39667,-11.88389],"type":"Point"}
+}

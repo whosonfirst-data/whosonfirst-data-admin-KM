@@ -1,0 +1,71 @@
+{
+  "id": 1243070931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22778,-11.75472,43.22778,-11.75472",
+    "geom:latitude":-11.75472,
+    "geom:longitude":43.22778,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mbachile",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921809,
+    "gn:latitude":-11.75472,
+    "gn:longitude":43.22778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbachil\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mtachite",
+        "Mbachil\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921809,
+        "wk:page":"Mbachil%C3%A9-Napabo"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"f5ba27e6ca17ffafe56e28eec7b4a7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1243070931,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1243070931,
+    "wof:lastmodified":1537654141,
+    "wof:name":"Mbachile",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22778,
+    -11.75472,
+    43.22778,
+    -11.75472
+],
+  "geometry": {"coordinates":[43.22778,-11.75472],"type":"Point"}
+}

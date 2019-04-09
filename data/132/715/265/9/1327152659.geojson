@@ -1,0 +1,70 @@
+{
+  "id": 1327152659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85,-12.35,43.85,-12.35",
+    "geom:latitude":-12.35,
+    "geom:longitude":43.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Iconi",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921867,
+    "gn:latitude":-12.35,
+    "gn:longitude":43.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iconi",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koni",
+        "Iconi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921867
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"dcb202ed6629f5372bd791d315403286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1327152659,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":1327152659,
+    "wof:lastmodified":1537654142,
+    "wof:name":"Iconi",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85,
+    -12.35,
+    43.85,
+    -12.35
+],
+  "geometry": {"coordinates":[43.85,-12.35],"type":"Point"}
+}

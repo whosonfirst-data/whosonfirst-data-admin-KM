@@ -1,0 +1,66 @@
+{
+  "id": 1276555369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68222,-12.34278,43.68222,-12.34278",
+    "geom:latitude":-12.34278,
+    "geom:longitude":43.68222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ndrondroni",
+    "gn:country_code":"KM",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090564,
+    "gn:latitude":-12.34278,
+    "gn:longitude":43.68222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ndrondroni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090564,
+        "wk:page":"Ndrondroni"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"e9e53dc8a2fecd0694d9eaaadb6aedd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1276555369,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":1276555369,
+    "wof:lastmodified":1537567283,
+    "wof:name":"Ndrondroni",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68222,
+    -12.34278,
+    43.68222,
+    -12.34278
+],
+  "geometry": {"coordinates":[43.68222,-12.34278],"type":"Point"}
+}

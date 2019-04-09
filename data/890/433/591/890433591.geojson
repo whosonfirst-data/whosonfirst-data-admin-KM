@@ -1,0 +1,79 @@
+{
+  "id": 890433591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48861,-12.32583,44.48861,-12.32583",
+    "geom:latitude":-12.32583,
+    "geom:longitude":44.48861,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":2676,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Daji"
+    ],
+    "name:eng_x_preferred":[
+        "Daji"
+    ],
+    "name:fre_x_preferred":[
+        "Daji"
+    ],
+    "name:swe_x_preferred":[
+        "Daji"
+    ],
+    "qs:name":"Daji",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1842,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091436,
+        "gp:id":1306039,
+        "qs:id":130515,
+        "wd:id":"Q14525823",
+        "wk:page":"Daji"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051986,
+    "wof:geomhash":"677573d14c227969f01434e9a7a219b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890433591,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890433591,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Daji",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":2676,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48861,
+    -12.32583,
+    44.48861,
+    -12.32583
+],
+  "geometry": {"coordinates":[44.48861,-12.32583],"type":"Point"}
+}

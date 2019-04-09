@@ -1,0 +1,70 @@
+{
+  "id": 1309821563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49306,-12.33194,44.49306,-12.33194",
+    "geom:latitude":-12.33194,
+    "geom:longitude":44.49306,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mrijou",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921813,
+    "gn:latitude":-12.33194,
+    "gn:longitude":44.49306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mrijou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marijou",
+        "Mrijou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921813
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"6b02940cfe1dd2e69b48f145c312d7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1309821563,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1309821563,
+    "wof:lastmodified":1537654142,
+    "wof:name":"Mrijou",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49306,
+    -12.33194,
+    44.49306,
+    -12.33194
+],
+  "geometry": {"coordinates":[44.49306,-12.33194],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242877011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26361,-11.67861,43.26361,-11.67861",
+    "geom:latitude":-11.67861,
+    "geom:longitude":43.26361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Itsambouni",
+    "gn:country_code":"KM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092167,
+    "gn:latitude":-11.67861,
+    "gn:longitude":43.26361,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Itsambouni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092167
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"7596e80d3548902f44ea905cfa506807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1242877011,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1242877011,
+    "wof:lastmodified":1536630837,
+    "wof:name":"Itsambouni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26361,
+    -11.67861,
+    43.26361,
+    -11.67861
+],
+  "geometry": {"coordinates":[43.26361,-11.67861],"type":"Point"}
+}

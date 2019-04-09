@@ -1,0 +1,65 @@
+{
+  "id": 1226055723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42222,-11.87694,43.42222,-11.87694",
+    "geom:latitude":-11.87694,
+    "geom:longitude":43.42222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dzouadjou",
+    "gn:country_code":"KM",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092551,
+    "gn:latitude":-11.87694,
+    "gn:longitude":43.42222,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Dzouadjou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092551
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"ccb8e882a73a5309d4e82103272d077b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1226055723,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1226055723,
+    "wof:lastmodified":1536711023,
+    "wof:name":"Dzouadjou",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42222,
+    -11.87694,
+    43.42222,
+    -11.87694
+],
+  "geometry": {"coordinates":[43.42222,-11.87694],"type":"Point"}
+}

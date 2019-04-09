@@ -1,0 +1,67 @@
+{
+  "id": 1226352481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41667,-11.45,43.41667,-11.45",
+    "geom:latitude":-11.45,
+    "geom:longitude":43.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hadjambo",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921878,
+    "gn:latitude":-11.45,
+    "gn:longitude":43.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hadjambo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajumbo",
+        "Hadjumbo",
+        "Hadjambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921878
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"21f9e1de43235024e5b622432bda31fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226352481,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226352481,
+    "wof:lastmodified":1537654143,
+    "wof:name":"Hadjambo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41667,
+    -11.45,
+    43.41667,
+    -11.45
+],
+  "geometry": {"coordinates":[43.41667,-11.45],"type":"Point"}
+}

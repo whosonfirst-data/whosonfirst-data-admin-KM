@@ -1,0 +1,105 @@
+{
+  "id": 421198505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43778,-12.30667,44.43778,-12.30667",
+    "geom:latitude":-12.30667,
+    "geom:longitude":44.43778,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u064a\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0578\u0575\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Moya"
+    ],
+    "name:eng_x_preferred":[
+        "Moya"
+    ],
+    "name:fre_x_preferred":[
+        "Moya"
+    ],
+    "name:hrv_x_preferred":[
+        "Moya"
+    ],
+    "name:ind_x_preferred":[
+        "Moya"
+    ],
+    "name:ita_x_preferred":[
+        "Moya"
+    ],
+    "name:pol_x_preferred":[
+        "Moya"
+    ],
+    "name:swe_x_preferred":[
+        "Moya"
+    ],
+    "qs:gn_country":"KM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":921764,
+    "qs:gn_pop":7529,
+    "qs:name":"Moya",
+    "qs:name_adm0":"\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+    "qs:name_adm1":"Anjouan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":183313,
+    "qs:woe_adm0":23424786,
+    "qs:woe_id":1306109,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921764,
+        "gp:id":1306109,
+        "qs:id":183313,
+        "wd:id":"Q786648",
+        "wk:page":"Moya, Comoros"
+    },
+    "wof:country":"KM",
+    "wof:created":1459009950,
+    "wof:geomhash":"3f301a492a8b98c12e994401a9f0a0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632259,
+            "locality_id":421198505
+        }
+    ],
+    "wof:id":421198505,
+    "wof:lastmodified":1553816385,
+    "wof:name":"Moya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":7529,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43778,
+    -12.30667,
+    44.43778,
+    -12.30667
+],
+  "geometry": {"coordinates":[44.43778,-12.30667],"type":"Point"}
+}

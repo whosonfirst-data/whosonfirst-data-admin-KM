@@ -1,0 +1,82 @@
+{
+  "id": 890415437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29944,-12.20556,44.29944,-12.20556",
+    "geom:latitude":-12.20556,
+    "geom:longitude":44.29944,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":2465,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Boungoueni"
+    ],
+    "name:eng_x_preferred":[
+        "Boungoueni"
+    ],
+    "name:fre_x_preferred":[
+        "Boungoueni"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0646\u06af\u0648\u0626\u0646\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Boungou\u00e9ni"
+    ],
+    "qs:name":"Boungou\u00e9ni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921957,
+        "gp:id":1306141,
+        "qs:id":130058,
+        "wd:id":"Q2922202",
+        "wk:page":"Boungoueni"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051089,
+    "wof:geomhash":"28c72d4d6337e615aac3924185989f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890415437,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890415437,
+    "wof:lastmodified":1527727238,
+    "wof:name":"Boungou\u00e9ni",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":2465,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29944,
+    -12.20556,
+    44.29944,
+    -12.20556
+],
+  "geometry": {"coordinates":[44.29944,-12.20556],"type":"Point"}
+}

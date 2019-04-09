@@ -1,0 +1,95 @@
+{
+  "id": 1125865545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49833,-12.14361,44.49833,-12.14361",
+    "geom:latitude":-12.14361,
+    "geom:longitude":44.49833,
+    "gn:gn_country":"KM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1698,
+    "gn:population":1698,
+    "iso:country":"KM",
+    "lbl:latitude":-12.14361,
+    "lbl:longitude":44.49833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0440\u0435\u043c\u0431\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Harembo"
+    ],
+    "name:eng_x_preferred":[
+        "Harembo"
+    ],
+    "name:fre_x_preferred":[
+        "Harembo"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u0631\u0645\u0628\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Harembo"
+    ],
+    "qs_pg:aaroncc":"KM",
+    "qs_pg:gn_country":"KM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1091102,
+    "qs_pg:gn_pop":1698,
+    "qs_pg:name":"Harembo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":130508,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091102,
+        "qs_pg:id":130508,
+        "wd:id":"Q3127418"
+    },
+    "wof:country":"KM",
+    "wof:created":1497294022,
+    "wof:geomhash":"b414c2565219f84e14a689d29fad0a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1125865545,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1125865545,
+    "wof:lastmodified":1514468974,
+    "wof:name":"Harembo",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":1698,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49833,
+    -12.14361,
+    44.49833,
+    -12.14361
+],
+  "geometry": {"coordinates":[44.49833,-12.14361],"type":"Point"}
+}

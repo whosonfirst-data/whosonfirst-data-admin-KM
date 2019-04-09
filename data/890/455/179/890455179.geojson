@@ -1,0 +1,64 @@
+{
+  "id": 890455179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28028,-11.7525,43.28028,-11.7525",
+    "geom:latitude":-11.7525,
+    "geom:longitude":43.28028,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":105,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Boboni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921964,
+        "gp:id":1306106,
+        "qs:id":83947
+    },
+    "wof:country":"KM",
+    "wof:created":1469052937,
+    "wof:geomhash":"638036fadd634a1890faf68bd92bee8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890455179,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890455179,
+    "wof:lastmodified":1505343661,
+    "wof:name":"Boboni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28028,
+    -11.7525,
+    43.28028,
+    -11.7525
+],
+  "geometry": {"coordinates":[43.28028,-11.7525],"type":"Point"}
+}

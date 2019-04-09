@@ -1,0 +1,65 @@
+{
+  "id": 1225858775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43656,-12.13886,44.43656,-12.13886",
+    "geom:latitude":-12.13886,
+    "geom:longitude":44.43656,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gnantranga",
+    "gn:country_code":"KM",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091087,
+    "gn:latitude":-12.13886,
+    "gn:longitude":44.43656,
+    "gn:modification_date":"2013-10-12",
+    "gn:name":"Gnantranga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091087
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"0abe5f0d03a5480166c4285f82d21864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1225858775,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1225858775,
+    "wof:lastmodified":1536993954,
+    "wof:name":"Gnantranga",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43656,
+    -12.13886,
+    44.43656,
+    -12.13886
+],
+  "geometry": {"coordinates":[44.43656,-12.13886],"type":"Point"}
+}

@@ -1,0 +1,258 @@
+{
+  "id": 85670273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.084952,
+    "geom:area_square_m":1028783101.365624,
+    "geom:bbox":"43.2132267593,-11.9328752574,43.4987899104,-11.3612606745",
+    "geom:latitude":-11.655424,
+    "geom:longitude":43.339728,
+    "gn:population":345513,
+    "iso:country":"KM",
+    "label:eng_x_preferred_longname":[
+        "Andjaz\u00eedja Autonomous Island"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous island"
+    ],
+    "lbl:latitude":-11.727683,
+    "lbl:longitude":43.318094,
+    "mps:latitude":-11.727683,
+    "mps:longitude":43.318094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "Grande Comore"
+    ],
+    "name:ara_x_variant":[
+        "Ingh\u0101z\u012bj\u0101",
+        "\u0627\u0646\u063a\u0627\u0632\u064a\u062c\u0627",
+        "\u0627\u0644\u0642\u0645\u0631 \u0627\u0644\u0643\u0628\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Gran Comora"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041d\u0433\u0430\u0437\u0456\u0434\u0436\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Ngazidja"
+    ],
+    "name:ces_x_preferred":[
+        "Ngazidja"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u039a\u03bf\u03bc\u03cc\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Grande Comore"
+    ],
+    "name:epo_x_preferred":[
+        "Granda Komoro"
+    ],
+    "name:eus_x_preferred":[
+        "Komora Handia"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Autonome de Grande Comore"
+    ],
+    "name:fra_x_variant":[
+        "Grande Comore"
+    ],
+    "name:fry_x_preferred":[
+        "Grut Komoare"
+    ],
+    "name:glg_x_preferred":[
+        "Gran Comora"
+    ],
+    "name:ind_x_preferred":[
+        "Komoro Besar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30c9\u30b3\u30e2\u30ed\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub791\ub4dc\ucf54\ubaa8\ub974 \uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Grand Komoras"
+    ],
+    "name:oci_x_preferred":[
+        "Granda Com\u00f2ra"
+    ],
+    "name:pol_x_preferred":[
+        "Wielki Komor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0430\u0437\u0438\u0434\u0436\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Gran Comora"
+    ],
+    "name:swa_x_preferred":[
+        "Ngazija"
+    ],
+    "name:swb_x_preferred":[
+        "N\u2019gazidja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043e\u043c\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Grande Comore"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0645\u0631 \u0627\u0644\u06a9\u0628\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u79d1\u6469\u7f57\u5c9b"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"COM",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"COM-4935",
+    "ne:adm1_code":"COM-4935",
+    "ne:admin":"Comoros",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"KM.GC",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4935",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CN02",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Comoros",
+    "ne:gn_a1_code":"KM.02",
+    "ne:gn_id":"921882",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Grande Comore",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CN02",
+    "ne:gns_id":"-2087828",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Grande Comore",
+    "ne:gns_region":"",
+    "ne:gu_a3":"COM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KM-G",
+    "ne:iso_a2":"KM",
+    "ne:labelrank":"20",
+    "ne:latitude":"-11.69520000000",
+    "ne:longitude":"43.33780000000",
+    "ne:mapcolor13":10,
+    "ne:mapcolor9":4,
+    "ne:name":"Andjaz\u00eedja",
+    "ne:name_alt":"Andjaz\u00eedja|Anjaz\u012bjah|Grande Comore|Ngazidja",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"COM",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345044,
+    "ne:woe_label":"Grande Comore, KM, Comoros",
+    "ne:woe_name":"Grande Comore",
+    "qs:a0":"Comoros",
+    "qs:a0_lc":"KM",
+    "qs:a1":"Andjaz\u00eedja",
+    "qs:a1_lc":"COM-4935",
+    "qs:adm0":"Comoros",
+    "qs:adm0_a3":"COM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-09-01",
+    "statoids:area_km":"1,148",
+    "statoids:area_mi":"443",
+    "statoids:as_of_date":"2003-09-01",
+    "statoids:capital":"Moroni",
+    "statoids:country":"KM",
+    "statoids:gec":"CN02",
+    "statoids:hasc":"KM.GC",
+    "statoids:iso":"G",
+    "statoids:name":"Grande Comore",
+    "statoids:population":"295665",
+    "statoids:timezone":"+3",
+    "statoids:type":"autonomous island",
+    "unlc:subdivision":"KM-G",
+    "wof:belongsto":[
+        102191573,
+        85632259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CN02",
+        "gn:id":921882,
+        "gp:id":2345044,
+        "hasc:id":"KM.GC",
+        "iso:id":"KM-G",
+        "qs:id":219530,
+        "unlc:id":"KM-G"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"4bb9b8e4e7601b0271e5adc4006796dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":85670273,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra",
+        "zdj"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra",
+        "zdj"
+    ],
+    "wof:lastmodified":1553550347,
+    "wof:name":"Andjaz\u00eedja",
+    "wof:parent_id":85632259,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"autonomous island",
+    "wof:population":295665,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:shortcode":"GC",
+    "wof:subdivision":"KM-G",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21322675930753,
+    -11.9328752573872,
+    43.49878991042607,
+    -11.36126067454046
+],
+  "geometry": {"coordinates":[[[43.46656334702089,-11.82170989379654],[43.46908613421778,-11.83171965843542],[43.47535240968602,-11.84303150739811],[43.49878991042607,-11.87363046697243],[43.49830162891709,-11.88201262778051],[43.48698977995446,-11.8998348938652],[43.48373457139343,-11.90992603995471],[43.48259524817223,-11.9171688775416],[43.47999108222274,-11.92278411309627],[43.47266686318522,-11.92791106534332],[43.463145379156,-11.93092213314986],[43.44955488375092,-11.9328752573872],[43.437673372728,-11.93157317486208],[43.43238366027776,-11.92408619562138],[43.42595462280764,-11.91155364378557],[43.36996504005458,-11.86060963272831],[43.35515384177643,-11.85458749801455],[43.3122664720201,-11.85214609136898],[43.30176842497286,-11.84954192452017],[43.29029381580699,-11.84335702870385],[43.271006706994,-11.82822031001922],[43.26286868604109,-11.81804778337846],[43.26010175898904,-11.80917734196072],[43.25879967466528,-11.80046965894758],[43.25424238447852,-11.79070403416381],[43.22877037894989,-11.76628997130507],[43.21778405039367,-11.75025807105311],[43.21322675930753,-11.72576262764312],[43.21599368635958,-11.71599700285935],[43.222504101683,-11.70387135198126],[43.24415123838901,-11.67294687289984],[43.2443953791435,-11.66228606564937],[43.2415470715402,-11.65154387784764],[43.2405705094215,-11.63982512792728],[43.25440514378244,-11.46306731610372],[43.25228925934192,-11.45134856528404],[43.24683678488975,-11.44060637748231],[43.25660240967352,-11.42327239380586],[43.2661238937028,-11.39869557074394],[43.27654056109805,-11.37957122213413],[43.2883406906704,-11.37916432117646],[43.33082116036832,-11.36500416461047],[43.35572350383671,-11.36126067454046],[43.37403405053107,-11.36858489357792],[43.38599694120592,-11.38404713266897],[43.3948673844223,-11.40016041437156],[43.39942467550844,-11.41838958051466],[43.37712649798954,-11.60507577912387],[43.38607832085785,-11.64560312278581],[43.4305119147931,-11.70818450231286],[43.44662519649569,-11.74911874783191],[43.44711347710535,-11.75937265412466],[43.44556725382574,-11.78053150752299],[43.44662519649569,-11.79070403416381],[43.45118248848109,-11.79802825230195],[43.45777428525514,-11.80437590832145],[43.46387780052015,-11.81161874770697],[43.46656334702089,-11.82170989379654]]],"type":"Polygon"}
+}

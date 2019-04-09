@@ -1,0 +1,65 @@
+{
+  "id": 1259492379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47056,-11.89444,43.47056,-11.89444",
+    "geom:latitude":-11.89444,
+    "geom:longitude":43.47056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngnambeni",
+    "gn:country_code":"KM",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092587,
+    "gn:latitude":-11.89444,
+    "gn:longitude":43.47056,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Ngnamb\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092587
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"671be067b7c7c2fe43c72954a633f8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1259492379,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1259492379,
+    "wof:lastmodified":1536844853,
+    "wof:name":"Ngnambeni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47056,
+    -11.89444,
+    43.47056,
+    -11.89444
+],
+  "geometry": {"coordinates":[43.47056,-11.89444],"type":"Point"}
+}

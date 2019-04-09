@@ -1,0 +1,61 @@
+{
+  "id": 1260293831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38861,-11.53806,43.38861,-11.53806",
+    "geom:latitude":-11.53806,
+    "geom:longitude":43.38861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kangalinda",
+    "gn:country_code":"KM",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092015,
+    "gn:latitude":-11.53806,
+    "gn:longitude":43.38861,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Kangalinda",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092015
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"c1a9412105c42adf569234a910e33102",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260293831,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260293831,
+    "wof:lastmodified":1536698191,
+    "wof:name":"Kangalinda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38861,
+    -11.53806,
+    43.38861,
+    -11.53806
+],
+  "geometry": {"coordinates":[43.38861,-11.53806],"type":"Point"}
+}

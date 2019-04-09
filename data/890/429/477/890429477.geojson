@@ -1,0 +1,79 @@
+{
+  "id": 890429477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30917,-11.84556,43.30917,-11.84556",
+    "geom:latitude":-11.84556,
+    "geom:longitude":43.30917,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":2309,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Singani"
+    ],
+    "name:eng_x_preferred":[
+        "Singani"
+    ],
+    "name:fre_x_preferred":[
+        "Singani"
+    ],
+    "name:swe_x_preferred":[
+        "Singani"
+    ],
+    "qs:name":"Singani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":4349,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921674,
+        "gp:id":1306030,
+        "qs:id":275839,
+        "wd:id":"Q3484935",
+        "wk:page":"Singani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051816,
+    "wof:geomhash":"6cd3b47550d161ac9ea53271398e3c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890429477,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890429477,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Singani",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":2309,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30917,
+    -11.84556,
+    43.30917,
+    -11.84556
+],
+  "geometry": {"coordinates":[43.30917,-11.84556],"type":"Point"}
+}

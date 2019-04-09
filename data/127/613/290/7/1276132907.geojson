@@ -1,0 +1,65 @@
+{
+  "id": 1276132907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49417,-12.11917,44.49417,-12.11917",
+    "geom:latitude":-12.11917,
+    "geom:longitude":44.49417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndrangani",
+    "gn:country_code":"KM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091077,
+    "gn:latitude":-12.11917,
+    "gn:longitude":44.49417,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Ndrangani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091077
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"424ac11e30a5695df15ed3cae86257d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1276132907,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1276132907,
+    "wof:lastmodified":1537045236,
+    "wof:name":"Ndrangani",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49417,
+    -12.11917,
+    44.49417,
+    -12.11917
+],
+  "geometry": {"coordinates":[44.49417,-12.11917],"type":"Point"}
+}

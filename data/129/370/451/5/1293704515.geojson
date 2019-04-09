@@ -1,0 +1,65 @@
+{
+  "id": 1293704515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31861,-12.19056,44.31861,-12.19056",
+    "geom:latitude":-12.19056,
+    "geom:longitude":44.31861,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chongochahari",
+    "gn:country_code":"KM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090956,
+    "gn:latitude":-12.19056,
+    "gn:longitude":44.31861,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Chongochahari",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090956
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"927563a545ed55de3db6bd649436f53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1293704515,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1293704515,
+    "wof:lastmodified":1536971157,
+    "wof:name":"Chongochahari",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31861,
+    -12.19056,
+    44.31861,
+    -12.19056
+],
+  "geometry": {"coordinates":[44.31861,-12.19056],"type":"Point"}
+}

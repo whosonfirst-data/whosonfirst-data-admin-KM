@@ -1,0 +1,65 @@
+{
+  "id": 1309724817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26611,-11.68028,43.26611,-11.68028",
+    "geom:latitude":-11.68028,
+    "geom:longitude":43.26611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Salimani",
+    "gn:country_code":"KM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092168,
+    "gn:latitude":-11.68028,
+    "gn:longitude":43.26611,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Salimani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092168
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"c82d3557348cf8a1e7ede14cb7340f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1309724817,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1309724817,
+    "wof:lastmodified":1537045859,
+    "wof:name":"Salimani",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26611,
+    -11.68028,
+    43.26611,
+    -11.68028
+],
+  "geometry": {"coordinates":[43.26611,-11.68028],"type":"Point"}
+}

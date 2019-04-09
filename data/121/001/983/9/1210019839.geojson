@@ -1,0 +1,61 @@
+{
+  "id": 1210019839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40479,-11.44297,43.40479,-11.44297",
+    "geom:latitude":-11.44297,
+    "geom:longitude":43.40479,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nioumamilina",
+    "gn:country_code":"KM",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091829,
+    "gn:latitude":-11.44297,
+    "gn:longitude":43.40479,
+    "gn:modification_date":"2014-03-26",
+    "gn:name":"Nioumamilina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091829
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"7889dbc3ea8acead6eeed9de4900613d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210019839,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210019839,
+    "wof:lastmodified":1536393376,
+    "wof:name":"Nioumamilina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40479000000001,
+    -11.44297,
+    43.40479000000001,
+    -11.44297
+],
+  "geometry": {"coordinates":[43.40479000000001,-11.44297],"type":"Point"}
+}

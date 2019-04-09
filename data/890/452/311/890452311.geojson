@@ -1,0 +1,63 @@
+{
+  "id": 890452311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44121,-12.31296,44.44121,-12.31296",
+    "geom:latitude":-12.31296,
+    "geom:longitude":44.44121,
+    "gn:country":"KM",
+    "gn:fcode":"FLD",
+    "gn:pop":200,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "qs:name":"Marani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        85632259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030184,
+        "gp:id":1306109,
+        "qs:id":750737,
+        "wk:page":"Marani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469052812,
+    "wof:geomhash":"cbaae723fce61e03d892d8539524c8ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632259,
+            "locality_id":890452311
+        }
+    ],
+    "wof:id":890452311,
+    "wof:lastmodified":1527734188,
+    "wof:name":"Marani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44121,
+    -12.31296,
+    44.44121,
+    -12.31296
+],
+  "geometry": {"coordinates":[44.44121,-12.31296],"type":"Point"}
+}

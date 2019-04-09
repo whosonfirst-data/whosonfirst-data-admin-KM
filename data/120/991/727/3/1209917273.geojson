@@ -1,0 +1,65 @@
+{
+  "id": 1209917273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27389,-11.67167,43.27389,-11.67167",
+    "geom:latitude":-11.67167,
+    "geom:longitude":43.27389,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mde",
+    "gn:country_code":"KM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092164,
+    "gn:latitude":-11.67167,
+    "gn:longitude":43.27389,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Md\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092164
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"9f16d9010cc1baab36a1304c17976555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1209917273,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1209917273,
+    "wof:lastmodified":1536372364,
+    "wof:name":"Mde",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27389,
+    -11.67167,
+    43.27389,
+    -11.67167
+],
+  "geometry": {"coordinates":[43.27389,-11.67167],"type":"Point"}
+}

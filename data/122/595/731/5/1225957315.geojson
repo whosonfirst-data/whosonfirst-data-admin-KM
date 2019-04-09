@@ -1,0 +1,66 @@
+{
+  "id": 1225957315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36444,-11.47361,43.36444,-11.47361",
+    "geom:latitude":-11.47361,
+    "geom:longitude":43.36444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dimadjou",
+    "gn:country_code":"KM",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091863,
+    "gn:latitude":-11.47361,
+    "gn:longitude":43.36444,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dimadjou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091863,
+        "wk:page":"Dimadjou"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"5ade857f073527e66638c713d1aa75de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1225957315,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1225957315,
+    "wof:lastmodified":1537567284,
+    "wof:name":"Dimadjou",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36444,
+    -11.47361,
+    43.36444,
+    -11.47361
+],
+  "geometry": {"coordinates":[43.36444,-11.47361],"type":"Point"}
+}

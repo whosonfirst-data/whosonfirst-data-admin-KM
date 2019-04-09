@@ -1,0 +1,64 @@
+{
+  "id": 890450125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63194,-12.27444,43.63194,-12.27444",
+    "geom:latitude":-12.27444,
+    "geom:longitude":43.63194,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":585,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hamba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090507,
+        "gp:id":1306100,
+        "qs:id":84094
+    },
+    "wof:country":"KM",
+    "wof:created":1469052727,
+    "wof:geomhash":"b73440e379807685bc10e6df8ea40432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890450125,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":890450125,
+    "wof:lastmodified":1505343632,
+    "wof:name":"Hamba",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:population":585,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63194,
+    -12.27444,
+    43.63194,
+    -12.27444
+],
+  "geometry": {"coordinates":[43.63194,-12.27444],"type":"Point"}
+}

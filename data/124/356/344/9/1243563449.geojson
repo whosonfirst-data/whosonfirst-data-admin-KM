@@ -1,0 +1,65 @@
+{
+  "id": 1243563449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45889,-11.86528,43.45889,-11.86528",
+    "geom:latitude":-11.86528,
+    "geom:longitude":43.45889,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mlalouankoudjou",
+    "gn:country_code":"KM",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092559,
+    "gn:latitude":-11.86528,
+    "gn:longitude":43.45889,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Mlalouankoudjou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092559
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"7da49188cbbcfce1205210bc4ea3bb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1243563449,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1243563449,
+    "wof:lastmodified":1536635585,
+    "wof:name":"Mlalouankoudjou",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45889,
+    -11.86528,
+    43.45889,
+    -11.86528
+],
+  "geometry": {"coordinates":[43.45889,-11.86528],"type":"Point"}
+}

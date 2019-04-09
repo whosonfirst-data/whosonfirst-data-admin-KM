@@ -1,0 +1,116 @@
+{
+  "id": 421170749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39778,-11.87361,43.39778,-11.87361",
+    "geom:latitude":-11.87361,
+    "geom:longitude":43.39778,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0628\u064a\u0646\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Demb\u00e9ni"
+    ],
+    "name:eng_x_preferred":[
+        "Demb\u00e9ni"
+    ],
+    "name:fra_x_preferred":[
+        "Demb\u00e9ni"
+    ],
+    "name:fre_x_preferred":[
+        "Demb\u00e9ni"
+    ],
+    "name:hrv_x_preferred":[
+        "D\u00e9mbeni"
+    ],
+    "name:ind_x_preferred":[
+        "Demb\u00e9ni"
+    ],
+    "name:ita_x_preferred":[
+        "Demb\u00e9ni"
+    ],
+    "name:ron_x_preferred":[
+        "D\u00e9mbeni"
+    ],
+    "name:rum_x_preferred":[
+        "D\u00e9mbeni"
+    ],
+    "name:swe_x_preferred":[
+        "Demb\u00e9ni"
+    ],
+    "name:unk_x_variant":[
+        "Djembeni"
+    ],
+    "qs:gn_country":"KM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":921918,
+    "qs:gn_pop":4133,
+    "qs:name":"Dembeni",
+    "qs:name_adm0":"\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+    "qs:name_adm1":"Grande Comore",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":256956,
+    "qs:woe_adm0":23424786,
+    "qs:woe_id":1306030,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921918,
+        "gp:id":1306030,
+        "qs:id":256956,
+        "wd:id":"Q3022078",
+        "wk:page":"Demb\u00e9ni"
+    },
+    "wof:country":"KM",
+    "wof:created":1459008866,
+    "wof:geomhash":"f8780dcd794bf1ef32bb699f22a61440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":421170749,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":421170749,
+    "wof:lastmodified":1527716465,
+    "wof:name":"Dembeni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":4133,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39778,
+    -11.87361,
+    43.39778,
+    -11.87361
+],
+  "geometry": {"coordinates":[43.39778,-11.87361],"type":"Point"}
+}

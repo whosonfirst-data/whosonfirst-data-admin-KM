@@ -1,0 +1,67 @@
+{
+  "id": 890438037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24333,-11.75,43.24333,-11.75",
+    "geom:latitude":-11.75,
+    "geom:longitude":43.24333,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":311,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Vouvouni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092368,
+        "gp:id":12512358,
+        "qs:id":84134,
+        "wd:id":"Q16902771",
+        "wk:page":"Vouvouni"
+    },
+    "wof:country":"KM",
+    "wof:created":1469052177,
+    "wof:geomhash":"a0960e1c8539d1165c8bf55beddc1ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890438037,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890438037,
+    "wof:lastmodified":1527735422,
+    "wof:name":"Vouvouni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24333,
+    -11.75,
+    43.24333,
+    -11.75
+],
+  "geometry": {"coordinates":[43.24333,-11.75],"type":"Point"}
+}

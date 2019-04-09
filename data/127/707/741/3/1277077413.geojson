@@ -1,0 +1,70 @@
+{
+  "id": 1277077413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31972,-11.755,43.31972,-11.755",
+    "geom:latitude":-11.755,
+    "geom:longitude":43.31972,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Convalescence",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921926,
+    "gn:latitude":-11.755,
+    "gn:longitude":43.31972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Convalescence",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Convalescence",
+        "La Convalescence"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921926
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"0d2c43e7b413bf67291953ff302bd5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1277077413,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1277077413,
+    "wof:lastmodified":1537654143,
+    "wof:name":"La Convalescence",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31972,
+    -11.755,
+    43.31972,
+    -11.755
+],
+  "geometry": {"coordinates":[43.31972,-11.755],"type":"Point"}
+}

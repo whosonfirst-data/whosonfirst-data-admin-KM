@@ -1,0 +1,65 @@
+{
+  "id": 1243190647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81667,-12.33333,43.81667,-12.33333",
+    "geom:latitude":-12.33333,
+    "geom:longitude":43.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bandani",
+    "gn:country_code":"KM",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921981,
+    "gn:latitude":-12.33333,
+    "gn:longitude":43.81667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bandani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921981
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"3e38af8bab9024723da950ee0a2c5915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1243190647,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":1243190647,
+    "wof:lastmodified":1536677316,
+    "wof:name":"Bandani",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81667,
+    -12.33333,
+    43.81667,
+    -12.33333
+],
+  "geometry": {"coordinates":[43.81667,-12.33333],"type":"Point"}
+}

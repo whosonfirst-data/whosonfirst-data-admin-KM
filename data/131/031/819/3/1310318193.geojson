@@ -1,0 +1,68 @@
+{
+  "id": 1310318193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33194,-11.39028,43.33194,-11.39028",
+    "geom:latitude":-11.39028,
+    "geom:longitude":43.33194,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ouellah",
+    "gn:country_code":"KM",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921719,
+    "gn:latitude":-11.39028,
+    "gn:longitude":43.33194,
+    "gn:modification_date":"2017-08-09",
+    "gn:name":"Ouellah",
+    "gn:population":5478,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921719
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"048aa06fb774fc95acca46a3f7f1d8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1310318193,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1310318193,
+    "wof:lastmodified":1536689647,
+    "wof:name":"Ouellah",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":5478,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33194,
+    -11.39028,
+    43.33194,
+    -11.39028
+],
+  "geometry": {"coordinates":[43.33194,-11.39028],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890432609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36222,-12.23278,44.36222,-12.23278",
+    "geom:latitude":-12.23278,
+    "geom:longitude":44.36222,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":320,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Salamani"
+    ],
+    "name:eng_x_preferred":[
+        "Salamani"
+    ],
+    "name:swe_x_preferred":[
+        "Salamani"
+    ],
+    "qs:name":"Salamani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090972,
+        "gp:id":1306141,
+        "qs:id":84102,
+        "wd:id":"Q15274527",
+        "wk:page":"Salamani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051947,
+    "wof:geomhash":"47a7f7267a14dc511ec9e6893b4dad19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890432609,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890432609,
+    "wof:lastmodified":1527793042,
+    "wof:name":"Salamani",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":320,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36222,
+    -12.23278,
+    44.36222,
+    -12.23278
+],
+  "geometry": {"coordinates":[44.36222,-12.23278],"type":"Point"}
+}

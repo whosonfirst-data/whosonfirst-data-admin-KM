@@ -1,0 +1,67 @@
+{
+  "id": 890435947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26944,-12.19194,44.26944,-12.19194",
+    "geom:latitude":-12.19194,
+    "geom:longitude":44.26944,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":2160,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kavani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090919,
+        "gp:id":1306141,
+        "qs:id":1029705,
+        "wd:id":"Q6379102",
+        "wk:page":"Kavani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469052087,
+    "wof:geomhash":"f30075bc6341b17e7497d7885f81479b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890435947,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890435947,
+    "wof:lastmodified":1527793048,
+    "wof:name":"Kavani",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":2160,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26944,
+    -12.19194,
+    44.26944,
+    -12.19194
+],
+  "geometry": {"coordinates":[44.26944,-12.19194],"type":"Point"}
+}

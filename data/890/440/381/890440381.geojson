@@ -1,0 +1,64 @@
+{
+  "id": 890440381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27639,-11.42083,43.27639,-11.42083",
+    "geom:latitude":-11.42083,
+    "geom:longitude":43.27639,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":1391,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Koua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091713,
+        "gp:id":1306102,
+        "qs:id":130519
+    },
+    "wof:country":"KM",
+    "wof:created":1469052273,
+    "wof:geomhash":"deede8c22cfa14eaad79a9714b142dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890440381,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890440381,
+    "wof:lastmodified":1505343576,
+    "wof:name":"Koua",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":1391,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27639,
+    -11.42083,
+    43.27639,
+    -11.42083
+],
+  "geometry": {"coordinates":[43.27639,-11.42083],"type":"Point"}
+}

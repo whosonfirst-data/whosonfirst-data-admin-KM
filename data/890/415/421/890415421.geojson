@@ -1,0 +1,67 @@
+{
+  "id": 890415421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47472,-12.31167,44.47472,-12.31167",
+    "geom:latitude":-12.31167,
+    "geom:longitude":44.47472,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":3711,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kangani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921847,
+        "gp:id":1306109,
+        "qs:id":130050,
+        "wd:id":"Q15947934",
+        "wk:page":"Kangani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051088,
+    "wof:geomhash":"487f697a8c90bc2cf0e0a10242f4afe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890415421,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890415421,
+    "wof:lastmodified":1527727240,
+    "wof:name":"Kangani",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":3711,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47472,
+    -12.31167,
+    44.47472,
+    -12.31167
+],
+  "geometry": {"coordinates":[44.47472,-12.31167],"type":"Point"}
+}

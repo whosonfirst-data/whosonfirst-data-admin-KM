@@ -1,0 +1,65 @@
+{
+  "id": 1276672813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33333,-11.45,43.33333,-11.45",
+    "geom:latitude":-11.45,
+    "geom:longitude":43.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"La Grille",
+    "gn:country_code":"KM",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921830,
+    "gn:latitude":-11.45,
+    "gn:longitude":43.33333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"La Grille",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921830
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"7e4803396a1f015df221ff99546bb452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1276672813,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1276672813,
+    "wof:lastmodified":1536819876,
+    "wof:name":"La Grille",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33333,
+    -11.45,
+    43.33333,
+    -11.45
+],
+  "geometry": {"coordinates":[43.33333,-11.45],"type":"Point"}
+}

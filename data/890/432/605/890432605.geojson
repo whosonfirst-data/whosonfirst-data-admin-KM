@@ -1,0 +1,60 @@
+{
+  "id": 890432605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33111,-12.23639,44.33111,-12.23639",
+    "geom:latitude":-12.23639,
+    "geom:longitude":44.33111,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":16,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hadongo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090965,
+        "gp:id":1306141,
+        "qs:id":84101
+    },
+    "wof:country":"KM",
+    "wof:created":1469051946,
+    "wof:geomhash":"d8f6a7ac89299278ca39d8304578b3ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632259,
+            "locality_id":890432605
+        }
+    ],
+    "wof:id":890432605,
+    "wof:lastmodified":1505343530,
+    "wof:name":"Hadongo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33111,
+    -12.23639,
+    44.33111,
+    -12.23639
+],
+  "geometry": {"coordinates":[44.33111,-12.23639],"type":"Point"}
+}

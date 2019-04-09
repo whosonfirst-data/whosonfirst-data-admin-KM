@@ -1,0 +1,76 @@
+{
+  "id": 890450113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30667,-11.83306,43.30667,-11.83306",
+    "geom:latitude":-11.83306,
+    "geom:longitude":43.30667,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":957,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mdjoyezi"
+    ],
+    "name:eng_x_preferred":[
+        "Mdjoyezi"
+    ],
+    "name:swe_x_preferred":[
+        "Mdjoy\u00e9zi"
+    ],
+    "qs:name":"Mdjoy\u00e9zi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921801,
+        "gp:id":1306030,
+        "qs:id":83935,
+        "wd:id":"Q6802853",
+        "wk:page":"Mdjoyezi"
+    },
+    "wof:country":"KM",
+    "wof:created":1469052726,
+    "wof:geomhash":"83d855d0cf515d9d32b34a1fb3f9cb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890450113,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890450113,
+    "wof:lastmodified":1527792966,
+    "wof:name":"Mdjoy\u00e9zi",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":957,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30667,
+    -11.83306,
+    43.30667,
+    -11.83306
+],
+  "geometry": {"coordinates":[43.30667,-11.83306],"type":"Point"}
+}

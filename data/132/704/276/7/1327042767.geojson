@@ -1,0 +1,70 @@
+{
+  "id": 1327042767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41389,-11.71056,43.41389,-11.71056",
+    "geom:latitude":-11.71056,
+    "geom:longitude":43.41389,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Idjikoundzi",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921866,
+    "gn:latitude":-11.71056,
+    "gn:longitude":43.41389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Idjikoundzi",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idjikoundji",
+        "Idjikoundzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921866
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"6b73d710877487aeb8848ae4f11232e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1327042767,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1327042767,
+    "wof:lastmodified":1537654142,
+    "wof:name":"Idjikoundzi",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41389,
+    -11.71056,
+    43.41389,
+    -11.71056
+],
+  "geometry": {"coordinates":[43.41389,-11.71056],"type":"Point"}
+}

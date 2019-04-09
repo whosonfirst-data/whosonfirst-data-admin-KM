@@ -1,0 +1,72 @@
+{
+  "id": 1242878095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49722,-12.2925,44.49722,-12.2925",
+    "geom:latitude":-12.2925,
+    "geom:longitude":44.49722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Adda-Doueni",
+    "gn:country_code":"KM",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091401,
+    "gn:latitude":-12.2925,
+    "gn:longitude":44.49722,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Adda-Dou\u00e9ni",
+    "gn:population":10858,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adda-Dou\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091401,
+        "wk:page":"Adda-Dou%C3%A9ni"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"d92c0de9566d4a83f09d72e984a9285f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1242878095,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1242878095,
+    "wof:lastmodified":1537654144,
+    "wof:name":"Adda-Doueni",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":10858,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49722,
+    -12.2925,
+    44.49722,
+    -12.2925
+],
+  "geometry": {"coordinates":[44.49722,-12.2925],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327032893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38278,-11.41833,43.38278,-11.41833",
+    "geom:latitude":-11.41833,
+    "geom:longitude":43.38278,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Massihini",
+    "gn:country_code":"KM",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091698,
+    "gn:latitude":-11.41833,
+    "gn:longitude":43.38278,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Massihini",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091698
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"88f6f5b4a7a0d1ba3a145b3661821a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1327032893,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1327032893,
+    "wof:lastmodified":1536759891,
+    "wof:name":"Massihini",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38278,
+    -11.41833,
+    43.38278,
+    -11.41833
+],
+  "geometry": {"coordinates":[43.38278,-11.41833],"type":"Point"}
+}

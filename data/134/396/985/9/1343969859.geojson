@@ -1,0 +1,72 @@
+{
+  "id": 1343969859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75854,-12.29845,43.75854,-12.29845",
+    "geom:latitude":-12.29845,
+    "geom:longitude":43.75854,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandaressalam",
+    "gn:country_code":"KM",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090615,
+    "gn:latitude":-12.29845,
+    "gn:longitude":43.75854,
+    "gn:modification_date":"2016-07-27",
+    "gn:name":"Bandaressalam",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandaressalam"
+    ],
+    "name:fra_x_preferred":[
+        "Bandaressalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090615,
+        "wk:page":"Bandaressalam"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"9362083fc65c42fbe35c0dd430abf20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1343969859,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":1343969859,
+    "wof:lastmodified":1537654144,
+    "wof:name":"Bandaressalam",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75854,
+    -12.29845,
+    43.75854,
+    -12.29845
+],
+  "geometry": {"coordinates":[43.75854,-12.29845],"type":"Point"}
+}

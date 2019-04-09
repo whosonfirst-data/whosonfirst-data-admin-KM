@@ -1,0 +1,76 @@
+{
+  "id": 890438035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.405,-11.68667,43.405,-11.68667",
+    "geom:latitude":-11.68667,
+    "geom:longitude":43.405,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":476,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ntsoral\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Ntsoral\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Ntsoral\u00e9"
+    ],
+    "qs:name":"Ntsoral\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092163,
+        "gp:id":1306106,
+        "qs:id":84133,
+        "wd:id":"Q7067658",
+        "wk:page":"Ntsoral\u00e9"
+    },
+    "wof:country":"KM",
+    "wof:created":1469052177,
+    "wof:geomhash":"8bc7236f828e28e9348b27698d301938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890438035,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890438035,
+    "wof:lastmodified":1527735425,
+    "wof:name":"Ntsoral\u00e9",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":476,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.405,
+    -11.68667,
+    43.405,
+    -11.68667
+],
+  "geometry": {"coordinates":[43.405,-11.68667],"type":"Point"}
+}

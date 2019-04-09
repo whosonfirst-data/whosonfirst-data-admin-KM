@@ -1,0 +1,79 @@
+{
+  "id": 890438025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26583,-11.64583,43.26583,-11.64583",
+    "geom:latitude":-11.64583,
+    "geom:longitude":43.26583,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":976,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0438\u0432\u0430\u043d\u0434\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Zivandani"
+    ],
+    "name:eng_x_preferred":[
+        "Zivandani"
+    ],
+    "name:swe_x_preferred":[
+        "Zivandani"
+    ],
+    "qs:name":"Zivandani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092067,
+        "gp:id":1306106,
+        "qs:id":84129,
+        "wd:id":"Q16904550",
+        "wk:page":"Zivandani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469052177,
+    "wof:geomhash":"99614368e9444350bbe907e7c4337131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890438025,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890438025,
+    "wof:lastmodified":1527735420,
+    "wof:name":"Zivandani",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":976,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26583,
+    -11.64583,
+    43.26583,
+    -11.64583
+],
+  "geometry": {"coordinates":[43.26583,-11.64583],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326939947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52639,-12.27444,44.52639,-12.27444",
+    "geom:latitude":-12.27444,
+    "geom:longitude":44.52639,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mboueladoungou",
+    "gn:country_code":"KM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091379,
+    "gn:latitude":-12.27444,
+    "gn:longitude":44.52639,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Mbou\u00e9ladoungou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091379
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"40cf6e5ffa5836cf7f65d8b13c642cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1326939947,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1326939947,
+    "wof:lastmodified":1536893289,
+    "wof:name":"Mboueladoungou",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52639,
+    -12.27444,
+    44.52639,
+    -12.27444
+],
+  "geometry": {"coordinates":[44.52639,-12.27444],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890415419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44167,-12.17139,44.44167,-12.17139",
+    "geom:latitude":-12.17139,
+    "geom:longitude":44.44167,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":4929,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Koki"
+    ],
+    "name:eng_x_preferred":[
+        "Koki"
+    ],
+    "name:rum_x_preferred":[
+        "Koki"
+    ],
+    "qs:name":"Koki",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921838,
+        "gp:id":1306111,
+        "qs:id":130049,
+        "wd:id":"Q6426611"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051088,
+    "wof:geomhash":"a37b672ca5b209cf2b4b5e65edd7d71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890415419,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890415419,
+    "wof:lastmodified":1514468974,
+    "wof:name":"Koki",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":4929,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44167,
+    -12.17139,
+    44.44167,
+    -12.17139
+],
+  "geometry": {"coordinates":[44.44167,-12.17139],"type":"Point"}
+}

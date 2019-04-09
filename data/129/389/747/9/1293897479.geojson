@@ -1,0 +1,65 @@
+{
+  "id": 1293897479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49889,-12.14722,44.49889,-12.14722",
+    "geom:latitude":-12.14722,
+    "geom:longitude":44.49889,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lamahale",
+    "gn:country_code":"KM",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091103,
+    "gn:latitude":-12.14722,
+    "gn:longitude":44.49889,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Lamahal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091103
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"48d36eb58e95c9770bc143a5b20a4c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1293897479,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1293897479,
+    "wof:lastmodified":1536693317,
+    "wof:name":"Lamahale",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49889,
+    -12.14722,
+    44.49889,
+    -12.14722
+],
+  "geometry": {"coordinates":[44.49889,-12.14722],"type":"Point"}
+}

@@ -1,0 +1,131 @@
+{
+  "id": 421189643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27667,-12.19556,44.27667,-12.19556",
+    "geom:latitude":-12.19556,
+    "geom:longitude":44.27667,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0645\u0627\u060c \u0623\u0646\u062c\u0648\u0627\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u056b\u0574\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Sima"
+    ],
+    "name:eng_x_preferred":[
+        "Sima"
+    ],
+    "name:fra_x_preferred":[
+        "Sima"
+    ],
+    "name:fre_x_preferred":[
+        "Sima"
+    ],
+    "name:ger_x_preferred":[
+        "Sima"
+    ],
+    "name:hrv_x_preferred":[
+        "Sima"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0574\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Sima"
+    ],
+    "name:ita_x_preferred":[
+        "Sima"
+    ],
+    "name:nds_x_preferred":[
+        "Sima"
+    ],
+    "name:pol_x_preferred":[
+        "Sima"
+    ],
+    "name:ron_x_preferred":[
+        "Sima"
+    ],
+    "name:rum_x_preferred":[
+        "Sima"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sima"
+    ],
+    "qs:gn_country":"KM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":921675,
+    "qs:gn_pop":10374,
+    "qs:name":"Sima",
+    "qs:name_adm0":"\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+    "qs:name_adm1":"Anjouan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1115487,
+    "qs:woe_adm0":23424786,
+    "qs:woe_id":1306141,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921675,
+        "gp:id":1306141,
+        "qs:id":1115487,
+        "wd:id":"Q3110104",
+        "wk:page":"Sima, Comoros"
+    },
+    "wof:country":"KM",
+    "wof:created":1459009631,
+    "wof:geomhash":"72b095c4e02e4a9ba0301f32d037dc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":421189643,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":421189643,
+    "wof:lastmodified":1527716264,
+    "wof:name":"Sima",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":10374,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27667,
+    -12.19556,
+    44.27667,
+    -12.19556
+],
+  "geometry": {"coordinates":[44.27667,-12.19556],"type":"Point"}
+}

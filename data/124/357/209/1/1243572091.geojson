@@ -1,0 +1,72 @@
+{
+  "id": 1243572091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50124,-12.35342,44.50124,-12.35342",
+    "geom:latitude":-12.35342,
+    "geom:longitude":44.50124,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chaoueni",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921742,
+    "gn:latitude":-12.35342,
+    "gn:longitude":44.50124,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Chaou\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nioumakele",
+        "Niumak\u00e9l\u00e9",
+        "Chaou\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921742,
+        "wk:page":"Chaou%C3%A9ni"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"2a345aace37f4889dc7868ee3a3d91c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1243572091,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1243572091,
+    "wof:lastmodified":1537654141,
+    "wof:name":"Chaoueni",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50124,
+    -12.35342,
+    44.50124,
+    -12.35342
+],
+  "geometry": {"coordinates":[44.50124,-12.35342],"type":"Point"}
+}

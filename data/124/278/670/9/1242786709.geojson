@@ -1,0 +1,66 @@
+{
+  "id": 1242786709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41222,-11.90028,43.41222,-11.90028",
+    "geom:latitude":-11.90028,
+    "geom:longitude":43.41222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ifoundihe Chambouani",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921864,
+    "gn:latitude":-11.90028,
+    "gn:longitude":43.41222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ifoundih\u00e9 Chambouani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ifoundihe Amboini",
+        "Ifoundih\u00e9 Chambouani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921864
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"ee43309e8139cacc5d98c4d63425ce47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242786709,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242786709,
+    "wof:lastmodified":1537654142,
+    "wof:name":"Ifoundihe Chambouani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41222,
+    -11.90028,
+    43.41222,
+    -11.90028
+],
+  "geometry": {"coordinates":[43.41222,-11.90028],"type":"Point"}
+}

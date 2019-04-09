@@ -1,0 +1,80 @@
+{
+  "id": 890433489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26722,-11.585,43.26722,-11.585",
+    "geom:latitude":-11.585,
+    "geom:longitude":43.26722,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":1708,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0443\u0441\u0438\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Ousivo"
+    ],
+    "name:eng_x_preferred":[
+        "Ousivo"
+    ],
+    "name:swe_x_preferred":[
+        "Oussivo"
+    ],
+    "name:unk_x_variant":[
+        "Ousivo"
+    ],
+    "qs:name":"Oussivo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921713,
+        "gp:id":12512357,
+        "qs:id":130034,
+        "wd:id":"Q7111344"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051982,
+    "wof:geomhash":"a6444af89a2eeeea5b492bcfcb401371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890433489,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890433489,
+    "wof:lastmodified":1514468977,
+    "wof:name":"Oussivo",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":1708,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26722,
+    -11.585,
+    43.26722,
+    -11.585
+],
+  "geometry": {"coordinates":[43.26722,-11.585],"type":"Point"}
+}

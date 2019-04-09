@@ -1,0 +1,106 @@
+{
+  "id": 890438465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42583,-12.13222,44.42583,-12.13222",
+    "geom:latitude":-12.13222,
+    "geom:longitude":44.42583,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":10179,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0627\u0646\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0548\u0582\u0561\u0576\u056b"
+    ],
+    "name:dut_x_preferred":[
+        "Ouani"
+    ],
+    "name:eng_x_preferred":[
+        "Ouani"
+    ],
+    "name:fre_x_preferred":[
+        "Ouani"
+    ],
+    "name:hrv_x_preferred":[
+        "Ouani"
+    ],
+    "name:ind_x_preferred":[
+        "Ouani"
+    ],
+    "name:ita_x_preferred":[
+        "Ouani"
+    ],
+    "name:pol_x_preferred":[
+        "Ouani"
+    ],
+    "name:rum_x_preferred":[
+        "Ouani"
+    ],
+    "name:spa_x_preferred":[
+        "Ouani"
+    ],
+    "name:swe_x_preferred":[
+        "Ouani"
+    ],
+    "name:unk_x_variant":[
+        "Ouany"
+    ],
+    "qs:name":"Ouani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921721,
+        "gp:id":1306111,
+        "qs:id":1029389,
+        "wd:id":"Q3143004",
+        "wk:page":"Ouani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469052195,
+    "wof:geomhash":"ca0bf54bf408e9dacf547514f2b49f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890438465,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890438465,
+    "wof:lastmodified":1527735422,
+    "wof:name":"Ouani",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":10179,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42583,
+    -12.13222,
+    44.42583,
+    -12.13222
+],
+  "geometry": {"coordinates":[44.42583,-12.13222],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360288841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28806,-11.38972,43.28806,-11.38972",
+    "geom:latitude":-11.38972,
+    "geom:longitude":43.28806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nkourani",
+    "gn:country_code":"KM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091669,
+    "gn:latitude":-11.38972,
+    "gn:longitude":43.28806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nkourani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091669,
+        "wk:page":"Nkourani"
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"7269bed4bc82cfbdbf1db4e10c01b735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1360288841,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":1360288841,
+    "wof:lastmodified":1537567284,
+    "wof:name":"Nkourani",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28806,
+    -11.38972,
+    43.28806,
+    -11.38972
+],
+  "geometry": {"coordinates":[43.28806,-11.38972],"type":"Point"}
+}

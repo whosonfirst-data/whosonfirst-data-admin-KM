@@ -1,0 +1,66 @@
+{
+  "id": 1243464369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68333,-12.25,43.68333,-12.25",
+    "geom:latitude":-12.25,
+    "geom:longitude":43.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Guamarumbo",
+    "gn:cc2":"KM",
+    "gn:country_code":"KM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921880,
+    "gn:latitude":-12.25,
+    "gn:longitude":43.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guamarumbo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guamarombu",
+        "Guamarumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921880
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"870bf245dc05c21a65fbb4204d89cab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243464369,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243464369,
+    "wof:lastmodified":1537654143,
+    "wof:name":"Guamarumbo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68333,
+    -12.25,
+    43.68333,
+    -12.25
+],
+  "geometry": {"coordinates":[43.68333,-12.25],"type":"Point"}
+}

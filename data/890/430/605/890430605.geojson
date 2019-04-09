@@ -1,0 +1,64 @@
+{
+  "id": 890430605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38806,-11.46528,43.38806,-11.46528",
+    "geom:latitude":-11.46528,
+    "geom:longitude":43.38806,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":306,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ngol\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091866,
+        "gp:id":1306093,
+        "qs:id":84121
+    },
+    "wof:country":"KM",
+    "wof:created":1469051859,
+    "wof:geomhash":"b777c52dbef13e9ee12fb735d188b349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890430605,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890430605,
+    "wof:lastmodified":1505343519,
+    "wof:name":"Ngol\u00e9",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38806,
+    -11.46528,
+    43.38806,
+    -11.46528
+],
+  "geometry": {"coordinates":[43.38806,-11.46528],"type":"Point"}
+}

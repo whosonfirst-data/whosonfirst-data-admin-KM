@@ -1,0 +1,79 @@
+{
+  "id": 890432615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2525,-12.19056,44.2525,-12.19056",
+    "geom:latitude":-12.19056,
+    "geom:longitude":44.2525,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":882,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u043d\u0433\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Mirongani"
+    ],
+    "name:eng_x_preferred":[
+        "Mirongani"
+    ],
+    "name:swe_x_preferred":[
+        "Mirongani"
+    ],
+    "qs:name":"Mirongani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090870,
+        "gp:id":1306141,
+        "qs:id":84098,
+        "wd:id":"Q6873887",
+        "wk:page":"Mirongani"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051947,
+    "wof:geomhash":"4ecd3f944d99742b102035465ac0ebb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890432615,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":890432615,
+    "wof:lastmodified":1527793041,
+    "wof:name":"Mirongani",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":882,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2525,
+    -12.19056,
+    44.2525,
+    -12.19056
+],
+  "geometry": {"coordinates":[44.2525,-12.19056],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125865559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41833,-12.25583,44.41833,-12.25583",
+    "geom:latitude":-12.25583,
+    "geom:longitude":44.41833,
+    "gn:gn_country":"KM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3583,
+    "gn:population":3583,
+    "iso:country":"KM",
+    "lbl:latitude":-12.25583,
+    "lbl:longitude":44.41833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0646\u0643\u0646\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043d\u0433\u043e\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Lingoni"
+    ],
+    "name:eng_x_preferred":[
+        "Lingoni"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u06cc\u0646\u06af\u0648\u0646\u06cc"
+    ],
+    "name:rum_x_preferred":[
+        "Lingoni"
+    ],
+    "name:swe_x_preferred":[
+        "Lingoni"
+    ],
+    "qs_pg:aaroncc":"KM",
+    "qs_pg:gn_country":"KM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1091370,
+    "qs_pg:gn_pop":3583,
+    "qs_pg:name":"Lingoni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":130513,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091370,
+        "qs_pg:id":130513,
+        "wd:id":"Q15242425"
+    },
+    "wof:country":"KM",
+    "wof:created":1497294023,
+    "wof:geomhash":"b3f1cde45f367de4ac50ccdd0aef54e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1125865559,
+            "region_id":85670277
+        }
+    ],
+    "wof:id":1125865559,
+    "wof:lastmodified":1514468974,
+    "wof:name":"Lingoni",
+    "wof:parent_id":85670277,
+    "wof:placetype":"locality",
+    "wof:population":3583,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41833,
+    -12.25583,
+    44.41833,
+    -12.25583
+],
+  "geometry": {"coordinates":[44.41833,-12.25583],"type":"Point"}
+}

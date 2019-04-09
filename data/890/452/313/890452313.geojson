@@ -1,0 +1,60 @@
+{
+  "id": 890452313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43702,-12.31086,44.43702,-12.31086",
+    "geom:latitude":-12.31086,
+    "geom:longitude":44.43702,
+    "gn:country":"KM",
+    "gn:fcode":"PPLR",
+    "gn:pop":8749,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mkiriwadjumoi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030185,
+        "gp:id":1306109,
+        "qs:id":750738
+    },
+    "wof:country":"KM",
+    "wof:created":1469052812,
+    "wof:geomhash":"ce2f1cae8f6eab5a54ec0ab4b1d0245d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632259,
+            "locality_id":890452313
+        }
+    ],
+    "wof:id":890452313,
+    "wof:lastmodified":1505343644,
+    "wof:name":"Mkiriwadjumoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":8749,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43702,
+    -12.31086,
+    44.43702,
+    -12.31086
+],
+  "geometry": {"coordinates":[44.43702,-12.31086],"type":"Point"}
+}

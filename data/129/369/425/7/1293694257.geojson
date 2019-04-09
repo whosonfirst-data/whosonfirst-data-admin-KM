@@ -1,0 +1,65 @@
+{
+  "id": 1293694257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63167,-12.28583,43.63167,-12.28583",
+    "geom:latitude":-12.28583,
+    "geom:longitude":43.63167,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chikoni",
+    "gn:country_code":"KM",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090511,
+    "gn:latitude":-12.28583,
+    "gn:longitude":43.63167,
+    "gn:modification_date":"1998-01-12",
+    "gn:name":"Chikoni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Comoro",
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090511
+    },
+    "wof:country":"KM",
+    "wof:geomhash":"e18a714864769af762c088a512b6e821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":1293694257,
+            "region_id":85670267
+        }
+    ],
+    "wof:id":1293694257,
+    "wof:lastmodified":1536985376,
+    "wof:name":"Chikoni",
+    "wof:parent_id":85670267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63167,
+    -12.28583,
+    43.63167,
+    -12.28583
+],
+  "geometry": {"coordinates":[43.63167,-12.28583],"type":"Point"}
+}

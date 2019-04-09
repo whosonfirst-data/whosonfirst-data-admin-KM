@@ -1,0 +1,79 @@
+{
+  "id": 890421841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38444,-11.47278,43.38444,-11.47278",
+    "geom:latitude":-11.47278,
+    "geom:longitude":43.38444,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":1382,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Itsandz\u00e9ni"
+    ],
+    "name:eng_x_preferred":[
+        "Itsandz\u00e9ni"
+    ],
+    "name:fre_x_preferred":[
+        "Itsandz\u00e9ni"
+    ],
+    "name:swe_x_preferred":[
+        "Itsandz\u00e9ni"
+    ],
+    "qs:name":"Itsandz\u00e9ni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091868,
+        "gp:id":1306093,
+        "qs:id":130521,
+        "wd:id":"Q3155989",
+        "wk:page":"Itsandz\u00e9ni"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051415,
+    "wof:geomhash":"07bca9ff366f1c8a9a9dea6c0bcf561b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890421841,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890421841,
+    "wof:lastmodified":1527782112,
+    "wof:name":"Itsandz\u00e9ni",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":1382,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38444,
+    -11.47278,
+    43.38444,
+    -11.47278
+],
+  "geometry": {"coordinates":[43.38444,-11.47278],"type":"Point"}
+}

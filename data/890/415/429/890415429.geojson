@@ -1,0 +1,85 @@
+{
+  "id": 890415429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37972,-11.54389,43.37972,-11.54389",
+    "geom:latitude":-11.54389,
+    "geom:longitude":43.37972,
+    "gn:country":"KM",
+    "gn:fcode":"PPL",
+    "gn:pop":1463,
+    "iso:country":"KM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Heroumbili"
+    ],
+    "name:eng_x_preferred":[
+        "Heroumbili"
+    ],
+    "name:fre_x_preferred":[
+        "Heroumbili"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0631\u0648\u0645\u0628\u06cc\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e9roumbili"
+    ],
+    "name:unk_x_variant":[
+        "Iroumbili"
+    ],
+    "qs:name":"H\u00e9roumbili",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632259,
+        85670273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921858,
+        "gp:id":1306093,
+        "qs:id":130053,
+        "wd:id":"Q3134319",
+        "wk:page":"Heroumbili"
+    },
+    "wof:country":"KM",
+    "wof:created":1469051088,
+    "wof:geomhash":"5c3f1dcb80bf6374c1e701fa1ea1e7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632259,
+            "locality_id":890415429,
+            "region_id":85670273
+        }
+    ],
+    "wof:id":890415429,
+    "wof:lastmodified":1527727240,
+    "wof:name":"H\u00e9roumbili",
+    "wof:parent_id":85670273,
+    "wof:placetype":"locality",
+    "wof:population":1463,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-km",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37972,
+    -11.54389,
+    43.37972,
+    -11.54389
+],
+  "geometry": {"coordinates":[43.37972,-11.54389],"type":"Point"}
+}
