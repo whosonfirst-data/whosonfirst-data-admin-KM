@@ -15,17 +15,17 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Heroumbili"
-    ],
     "name:eng_x_preferred":[
         "Heroumbili"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0648\u0645\u0628\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Heroumbili"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0631\u0648\u0645\u0628\u06cc\u0644\u06cc"
+    "name:nld_x_preferred":[
+        "Heroumbili"
     ],
     "name:swe_x_preferred":[
         "H\u00e9roumbili"
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890415429,
-    "wof:lastmodified":1527727240,
+    "wof:lastmodified":1561778389,
     "wof:name":"H\u00e9roumbili",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

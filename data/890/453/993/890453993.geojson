@@ -18,13 +18,13 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0443\u043d\u0438\u0430\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Douniani"
-    ],
     "name:eng_x_preferred":[
         "Douniani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Douniani"
+    ],
+    "name:nld_x_preferred":[
         "Douniani"
     ],
     "name:swe_x_preferred":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":890453993,
-    "wof:lastmodified":1527736642,
+    "wof:lastmodified":1561778390,
     "wof:name":"Douniani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -15,16 +15,16 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Chezani"
-    ],
     "name:eng_x_preferred":[
         "Chezani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chezani"
     ],
     "name:ind_x_preferred":[
+        "Chezani"
+    ],
+    "name:nld_x_preferred":[
         "Chezani"
     ],
     "name:swe_x_preferred":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890443481,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561778390,
     "wof:name":"Chezani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0438\u043c\u0431\u0430\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Koimbani"
-    ],
     "name:eng_x_preferred":[
         "Koimbani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koimbani"
     ],
     "name:ind_x_preferred":[
+        "Koimbani"
+    ],
+    "name:nld_x_preferred":[
         "Koimbani"
     ],
     "name:pol_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":890430551,
-    "wof:lastmodified":1527729733,
+    "wof:lastmodified":1561778389,
     "wof:name":"Koimbani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -152,9 +152,6 @@
     "name:cym_x_variant":[
         "Comoros"
     ],
-    "name:cze_x_preferred":[
-        "Komory"
-    ],
     "name:dan_x_preferred":[
         "Comorerne"
     ],
@@ -236,7 +233,6 @@
         "Comores (Archipel)",
         "Union des Comores",
         "\u00celes Comores",
-        "Comores",
         "\u00c9tat Comorien",
         "Territoire des Comores",
         "R\u00e9publique F\u00e9d\u00e9rale Islamique des Comores",
@@ -595,9 +591,6 @@
     "name:ron_x_variant":[
         "Comoros"
     ],
-    "name:rum_x_preferred":[
-        "Comore"
-    ],
     "name:run_x_preferred":[
         "Izinga rya Komore"
     ],
@@ -819,8 +812,7 @@
         "\u845b\u6469"
     ],
     "name:zho_x_variant":[
-        "\u79d1\u6469\u7f57",
-        "\u845b\u6469"
+        "\u79d1\u6469\u7f57"
     ],
     "name:zho_yue_x_preferred":[
         "\u79d1\u6469\u7f85"
@@ -984,7 +976,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1544059165,
+    "wof:lastmodified":1561778387,
     "wof:name":"Comoros",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
