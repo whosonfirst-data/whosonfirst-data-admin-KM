@@ -21,13 +21,13 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0430\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Hoani"
-    ],
     "name:eng_x_preferred":[
         "Hoani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Hoani"
+    ],
+    "name:nld_x_preferred":[
         "Hoani"
     ],
     "name:swe_x_preferred":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890415431,
-    "wof:lastmodified":1527727238,
+    "wof:lastmodified":1561778388,
     "wof:name":"Hoani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

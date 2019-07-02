@@ -15,14 +15,14 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Limbi"
-    ],
     "name:eng_x_preferred":[
         "Limbi"
     ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0644\u06cc\u0645\u0628\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Limbi"
     ],
     "name:swe_x_preferred":[
         "Limbi"
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890431421,
-    "wof:lastmodified":1553816395,
+    "wof:lastmodified":1561778389,
     "wof:name":"Limbi",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

@@ -18,17 +18,17 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0442\u0440\u043e\u0443\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Chitrouni"
-    ],
     "name:eng_x_preferred":[
         "Chitrouni"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u062a\u0631\u0648\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Chitrouni"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u062a\u0631\u0648\u0646\u06cc"
+    "name:nld_x_preferred":[
+        "Chitrouni"
     ],
     "name:swe_x_preferred":[
         "Chitrouni"
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890433587,
-    "wof:lastmodified":1527792954,
+    "wof:lastmodified":1561778390,
     "wof:name":"Chitrouni",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

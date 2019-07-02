@@ -16,25 +16,25 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0575\u0561"
-    ],
-    "name:dut_x_preferred":[
-        "Moya"
-    ],
     "name:eng_x_preferred":[
         "Moya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moya"
     ],
     "name:hrv_x_preferred":[
         "Moya"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0575\u0561"
+    ],
     "name:ind_x_preferred":[
         "Moya"
     ],
     "name:ita_x_preferred":[
+        "Moya"
+    ],
+    "name:nld_x_preferred":[
         "Moya"
     ],
     "name:pol_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":421198505,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561778388,
     "wof:name":"Moya",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
