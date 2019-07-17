@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0443\u0441\u0438\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Oussivo"
+    ],
     "name:eng_x_preferred":[
         "Ousivo"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890433489,
-    "wof:lastmodified":1561778391,
+    "wof:lastmodified":1563325108,
     "wof:name":"Oussivo",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

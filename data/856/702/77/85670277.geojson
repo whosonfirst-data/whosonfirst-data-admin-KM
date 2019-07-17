@@ -33,6 +33,9 @@
         "Anjw\u0101n",
         "\u0647\u0646\u0632\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Anjouan"
+    ],
     "name:aze_x_preferred":[
         "Anjuan"
     ],
@@ -42,14 +45,23 @@
     "name:bel_x_variant":[
         "\u0410\u043d\u0436\u0443\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u099e\u09cd\u099c\u09c1\u09af\u09bc\u09be\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Anjouan"
     ],
     "name:cat_x_preferred":[
         "Anjouan"
     ],
+    "name:ceb_x_preferred":[
+        "Anjouan"
+    ],
     "name:ces_x_preferred":[
         "Nzwani"
+    ],
+    "name:dan_x_preferred":[
+        "Anjouan"
     ],
     "name:deu_x_preferred":[
         "Anjouan"
@@ -62,6 +74,9 @@
     ],
     "name:epo_x_preferred":[
         "Anjuano"
+    ],
+    "name:epo_x_variant":[
+        "Anjouan"
     ],
     "name:est_x_preferred":[
         "Ndzwani"
@@ -84,6 +99,15 @@
     "name:glg_x_preferred":[
         "Anjouan"
     ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0acd\u0a9c\u0acb\u0a85\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d2'\u05d5\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0902\u091c\u0941\u0905\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Anjouan"
     ],
@@ -99,14 +123,26 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30b8\u30e5\u30a2\u30f3\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c82\u0c9c\u0ccc\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10eb\u10e3\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc559\uc8fc\uc559 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\uc559\uc8fc\uc559\uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "An\u017euana"
+    ],
     "name:lit_x_preferred":[
         "An\u017euanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0902\u091c\u0941\u0906\u0928"
     ],
     "name:msa_x_preferred":[
         "Anjouan"
@@ -114,11 +150,17 @@
     "name:nld_x_preferred":[
         "Anjouan"
     ],
+    "name:nob_x_preferred":[
+        "Anjouan"
+    ],
     "name:nor_x_preferred":[
         "Anjouan"
     ],
     "name:oci_x_preferred":[
         "Nzoani"
+    ],
+    "name:oci_x_variant":[
+        "Anjouan"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0646\u062c\u0648\u0622\u0646"
@@ -135,8 +177,14 @@
     "name:rus_x_preferred":[
         "\u041d\u0434\u0437\u0443\u0430\u043d\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0436\u0443\u0430\u043d"
+    ],
     "name:sco_x_preferred":[
         "Anjouan"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0da2\u0ddd\u0dc0\u0dcf\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
         "Anjouan"
@@ -153,14 +201,32 @@
     "name:swe_x_preferred":[
         "Anjouan"
     ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9e\u0bcd\u0b9a\u0bca\u0bb5\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c02\u0c1c\u0c4b\u0c35\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e2d\u0e47\u0e2d\u0e07\u0e0c\u0e39\u0e2d\u0e47\u0e2d\u0e07"
+    ],
     "name:tur_x_preferred":[
         "Anjouan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0436\u0443\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Anjouan"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u062c\u0648\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Anjouan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6602\u5112\u6602\u5c9b"
     ],
     "name:zho_x_preferred":[
         "\u6602\u5112\u6602\u5c9b"
@@ -290,7 +356,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1553550347,
+    "wof:lastmodified":1563325052,
     "wof:name":"Andjou\u00e2n",
     "wof:parent_id":85632259,
     "wof:placetype":"region",

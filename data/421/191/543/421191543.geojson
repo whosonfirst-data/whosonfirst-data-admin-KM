@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u064a\u0646\u0643\u0648\u0646\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Miringoni"
+    ],
     "name:eng_x_preferred":[
         "Miringoni"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":421191543,
-    "wof:lastmodified":1561778388,
+    "wof:lastmodified":1563325074,
     "wof:name":"Miringoni",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0443\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Bouni"
+    ],
     "name:eng_x_preferred":[
         "Bouni"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890415435,
-    "wof:lastmodified":1561778389,
+    "wof:lastmodified":1563325085,
     "wof:name":"Bouni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

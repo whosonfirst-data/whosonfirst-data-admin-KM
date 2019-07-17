@@ -15,6 +15,9 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tsidj\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Tsidj\u00e9"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890433599,
-    "wof:lastmodified":1561778390,
+    "wof:lastmodified":1563325107,
     "wof:name":"Tsidj\u00e9",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

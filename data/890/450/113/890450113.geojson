@@ -15,6 +15,9 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mdjoy\u00e9zi"
+    ],
     "name:eng_x_preferred":[
         "Mdjoyezi"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890450113,
-    "wof:lastmodified":1561778391,
+    "wof:lastmodified":1563325110,
     "wof:name":"Mdjoy\u00e9zi",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0443\u0445\u043e\u0437\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ouhozi"
+    ],
     "name:eng_x_preferred":[
         "Ouhozi"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890433593,
-    "wof:lastmodified":1561778390,
+    "wof:lastmodified":1563325104,
     "wof:name":"Ouhozi",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

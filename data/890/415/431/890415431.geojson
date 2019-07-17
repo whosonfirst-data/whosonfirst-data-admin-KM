@@ -21,6 +21,12 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Hoani"
+    ],
+    "name:deu_x_preferred":[
+        "Hoani"
+    ],
     "name:eng_x_preferred":[
         "Hoani"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890415431,
-    "wof:lastmodified":1561778388,
+    "wof:lastmodified":1563325081,
     "wof:name":"Hoani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

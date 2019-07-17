@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0440\u0430\u043c\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Mramani"
+    ],
     "name:eng_x_preferred":[
         "Mramani"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890421833,
-    "wof:lastmodified":1561778390,
+    "wof:lastmodified":1563325098,
     "wof:name":"Mramani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
