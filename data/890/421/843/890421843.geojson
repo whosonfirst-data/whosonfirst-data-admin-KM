@@ -15,6 +15,9 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bambadjani"
+    ],
     "name:eng_x_preferred":[
         "Bambadjani"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890421843,
-    "wof:lastmodified":1561778390,
+    "wof:lastmodified":1563325097,
     "wof:name":"Bambadjani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

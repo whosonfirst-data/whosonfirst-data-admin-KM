@@ -15,6 +15,9 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Itsandz\u00e9ni"
+    ],
     "name:eng_x_preferred":[
         "Itsandz\u00e9ni"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890421841,
-    "wof:lastmodified":1561778390,
+    "wof:lastmodified":1563325098,
     "wof:name":"Itsandz\u00e9ni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Moya"
+    ],
     "name:eng_x_preferred":[
         "Moya"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421198505,
-    "wof:lastmodified":1561778388,
+    "wof:lastmodified":1563325074,
     "wof:name":"Moya",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

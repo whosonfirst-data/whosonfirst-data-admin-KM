@@ -41,14 +41,23 @@
     "name:bel_x_variant":[
         "\u041c\u0430\u0445\u0435\u043b\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u09b9\u09c7\u09b2\u09bf"
+    ],
     "name:bre_x_preferred":[
         "Moh\u00e9li"
     ],
     "name:cat_x_preferred":[
         "Moh\u00e9li"
     ],
+    "name:ceb_x_preferred":[
+        "Mwali"
+    ],
     "name:ces_x_preferred":[
         "Mwali"
+    ],
+    "name:dan_x_preferred":[
+        "Moh\u00e9li"
     ],
     "name:deu_x_preferred":[
         "Moh\u00e9li"
@@ -60,20 +69,139 @@
         "Moh\u00e9li"
     ],
     "name:eng_x_variant":[
-        "Mwali",
-        "Moh\u00e9li"
+        "Mwali"
     ],
     "name:epo_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:eus_x_preferred":[
+        "Moheli"
+    ],
+    "name:fin_x_preferred":[
         "Moh\u00e9li"
     ],
     "name:fra_x_preferred":[
         "\u00cele Autonome de Moh\u00e9li"
     ],
+    "name:fra_x_variant":[
+        "Moh\u00e9li"
+    ],
+    "name:glg_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0ab9\u0ac7\u0ab2\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d4\u05dc\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0939\u0932\u0940"
+    ],
+    "name:hrv_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:ind_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:ita_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30d8\u30ea\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cca\u0cb9\u0cc6\u0cb2\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d5\u10d0\u10da\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc5d8\ub9ac\uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Mvali"
+    ],
+    "name:lit_x_preferred":[
+        "Mohelis"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0939\u0940\u0932\u093f"
+    ],
+    "name:msa_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:nld_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:nob_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:oci_x_preferred":[
+        "Moali"
+    ],
+    "name:pol_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:por_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:ron_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0432\u0430\u043b\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0dc4\u0dda\u0dbd\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0445\u0435\u043b\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Moheli"
+    ],
     "name:swb_x_preferred":[
         "Mwali"
     ],
+    "name:swe_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bca\u0bb9\u0bc6\u0bb2\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c39\u0c47\u0c32\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e40\u0e2d\u0e25\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Moheli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0445\u0435\u043b\u0456"
+    ],
     "name:unk_x_variant":[
         "Moh\u00e9li"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06c1\u06cc\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u57c3\u5229\u5c9b"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u57c3\u5229\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COM",
@@ -197,7 +325,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1553550347,
+    "wof:lastmodified":1563325051,
     "wof:name":"Mo\u00fbh\u00eel\u00ee",
     "wof:parent_id":85632259,
     "wof:placetype":"region",

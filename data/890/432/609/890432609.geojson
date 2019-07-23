@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Salamani"
+    ],
     "name:eng_x_preferred":[
         "Salamani"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890432609,
-    "wof:lastmodified":1561778391,
+    "wof:lastmodified":1563325111,
     "wof:name":"Salamani",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

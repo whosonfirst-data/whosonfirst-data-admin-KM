@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0645\u0628\u064a\u0646\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Demb\u00e9ni"
+    ],
     "name:eng_x_preferred":[
         "Demb\u00e9ni"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421170749,
-    "wof:lastmodified":1561778388,
+    "wof:lastmodified":1563325077,
     "wof:name":"Dembeni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

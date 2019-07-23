@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0446\u0430\u043c\u0438\u043e\u0443\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Mitsamiouli"
+    ],
     "name:eng_x_preferred":[
         "Mitsamiouli"
     ],
@@ -47,6 +50,9 @@
         "Mitsamiouli"
     ],
     "name:ron_x_preferred":[
+        "Mitsamiouli"
+    ],
+    "name:spa_x_preferred":[
         "Mitsamiouli"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421201961,
-    "wof:lastmodified":1561778388,
+    "wof:lastmodified":1563325076,
     "wof:name":"Mitsamiouli",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

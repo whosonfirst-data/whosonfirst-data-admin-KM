@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0445\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Bahani"
+    ],
     "name:eng_x_preferred":[
         "Bahani"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890440383,
-    "wof:lastmodified":1561778388,
+    "wof:lastmodified":1563325077,
     "wof:name":"Bahani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

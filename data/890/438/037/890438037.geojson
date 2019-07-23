@@ -15,6 +15,18 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0443\u0432\u043e\u0443\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Vouvouni"
+    ],
+    "name:eng_x_preferred":[
+        "Vouvouni"
+    ],
+    "name:swe_x_preferred":[
+        "Vouvouni"
+    ],
     "qs:name":"Vouvouni",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":890438037,
-    "wof:lastmodified":1527735422,
+    "wof:lastmodified":1563325094,
     "wof:name":"Vouvouni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",
