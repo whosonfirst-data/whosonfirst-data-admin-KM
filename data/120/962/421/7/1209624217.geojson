@@ -25,6 +25,15 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hantsambou"
+    ],
+    "name:fra_x_preferred":[
+        "Hantsambou"
+    ],
+    "name:swe_x_preferred":[
+        "Hantsambou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632259
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209624217,
-    "wof:lastmodified":1537567284,
+    "wof:lastmodified":1564183933,
     "wof:name":"Hantsambou",
     "wof:parent_id":85632259,
     "wof:placetype":"locality",

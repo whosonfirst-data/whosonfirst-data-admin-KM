@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "name:deu_x_preferred":[
+        "Marani"
+    ],
+    "name:ita_x_preferred":[
+        "Marani"
+    ],
+    "name:por_x_preferred":[
+        "Marani"
+    ],
     "qs:name":"Marani",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":890452311,
-    "wof:lastmodified":1527734188,
+    "wof:lastmodified":1564183945,
     "wof:name":"Marani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
