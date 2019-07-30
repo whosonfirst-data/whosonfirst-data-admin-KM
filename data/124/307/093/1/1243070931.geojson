@@ -26,6 +26,9 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mbachil\u00e9"
+    ],
     "name:und_x_variant":[
         "Mtachite",
         "Mbachil\u00e9"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243070931,
-    "wof:lastmodified":1537654141,
+    "wof:lastmodified":1564183951,
     "wof:name":"Mbachile",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

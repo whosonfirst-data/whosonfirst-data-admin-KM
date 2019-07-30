@@ -25,6 +25,54 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Domoni"
+    ],
+    "name:ceb_x_preferred":[
+        "Domoni"
+    ],
+    "name:deu_x_preferred":[
+        "Domoni"
+    ],
+    "name:fin_x_preferred":[
+        "Domoni"
+    ],
+    "name:fra_x_preferred":[
+        "Domoni"
+    ],
+    "name:hrv_x_preferred":[
+        "Domoni"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0574\u0578\u0576\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Domoni"
+    ],
+    "name:ita_x_preferred":[
+        "Domoni"
+    ],
+    "name:lit_x_preferred":[
+        "Domonis"
+    ],
+    "name:nld_x_preferred":[
+        "Domoni"
+    ],
+    "name:pol_x_preferred":[
+        "Domoni"
+    ],
+    "name:por_x_preferred":[
+        "Domoni"
+    ],
+    "name:ron_x_preferred":[
+        "Domoni"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043c\u043e\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Domoni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632259
@@ -42,7 +90,7 @@
         }
     ],
     "wof:id":1209227675,
-    "wof:lastmodified":1536293743,
+    "wof:lastmodified":1564183933,
     "wof:name":"Domoni",
     "wof:parent_id":85632259,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"KM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Babani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1226057493,
-    "wof:lastmodified":1536708463,
+    "wof:lastmodified":1564183962,
     "wof:name":"Babani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
