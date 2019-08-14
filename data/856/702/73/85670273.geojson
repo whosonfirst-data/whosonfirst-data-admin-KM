@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous island"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GC"
+    ],
     "lbl:latitude":-11.727683,
     "lbl:longitude":43.318094,
     "mps:latitude":-11.727683,
@@ -220,9 +223,6 @@
         }
     ],
     "wof:id":85670273,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra",
@@ -233,7 +233,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1553550347,
+    "wof:lastmodified":1565725143,
     "wof:name":"Andjaz\u00eedja",
     "wof:parent_id":85632259,
     "wof:placetype":"region",

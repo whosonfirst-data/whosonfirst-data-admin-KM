@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous island"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":-12.30825,
     "lbl:longitude":43.707338,
     "mps:latitude":-12.30825,
@@ -312,9 +315,6 @@
         }
     ],
     "wof:id":85670267,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra",
@@ -325,7 +325,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1563325051,
+    "wof:lastmodified":1565725142,
     "wof:name":"Mo\u00fbh\u00eel\u00ee",
     "wof:parent_id":85632259,
     "wof:placetype":"region",

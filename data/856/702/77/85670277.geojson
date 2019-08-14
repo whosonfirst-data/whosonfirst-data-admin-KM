@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous island"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":-12.213566,
     "lbl:longitude":44.445825,
     "mps:latitude":-12.213566,
@@ -343,9 +346,6 @@
         }
     ],
     "wof:id":85670277,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra",
@@ -356,7 +356,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1563325052,
+    "wof:lastmodified":1565725143,
     "wof:name":"Andjou\u00e2n",
     "wof:parent_id":85632259,
     "wof:placetype":"region",
