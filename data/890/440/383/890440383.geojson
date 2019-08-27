@@ -11,10 +11,14 @@
     "geom:longitude":43.28417,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1272,
+    "gn:population":1272,
     "iso:country":"KM",
+    "lbl:bbox":"43.26417,-11.65972,43.30417,-11.61972",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0445\u0430\u043d\u0438"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1092065,
         "gp:id":1306106,
-        "qs:id":130525,
+        "qs_pg:id":130525,
         "wd:id":"Q2879261",
         "wk:page":"Bahani"
     },
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890440383,
-    "wof:lastmodified":1563325077,
+    "wof:lastmodified":1566581571,
     "wof:name":"Bahani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

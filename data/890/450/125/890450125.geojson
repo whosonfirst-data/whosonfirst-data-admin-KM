@@ -11,10 +11,14 @@
     "geom:longitude":43.63194,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":585,
+    "gn:population":585,
     "iso:country":"KM",
+    "lbl:bbox":"43.61194,-12.29444,43.65194,-12.25444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Hamba",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":1090507,
         "gp:id":1306100,
-        "qs:id":84094
+        "qs_pg:id":84094
     },
     "wof:country":"KM",
     "wof:created":1469052727,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890450125,
-    "wof:lastmodified":1505343632,
+    "wof:lastmodified":1566581589,
     "wof:name":"Hamba",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

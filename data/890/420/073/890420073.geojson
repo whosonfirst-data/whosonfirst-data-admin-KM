@@ -11,10 +11,14 @@
     "geom:longitude":43.35778,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":185,
+    "gn:population":185,
     "iso:country":"KM",
+    "lbl:bbox":"43.33778,-11.65194,43.37778,-11.61194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Sada"
     ],
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":1092057,
         "gp:id":1306093,
-        "qs:id":84128,
+        "qs_pg:id":84128,
         "wk:page":"Sada"
     },
     "wof:country":"KM",
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890420073,
-    "wof:lastmodified":1564183948,
+    "wof:lastmodified":1566581584,
     "wof:name":"Sada",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

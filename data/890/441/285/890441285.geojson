@@ -11,10 +11,14 @@
     "geom:longitude":43.25306,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1654,
+    "gn:population":1654,
     "iso:country":"KM",
+    "lbl:bbox":"43.23306,-11.63139,43.27306,-11.59139",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u0627\u0645\u0628\u0648\u064a\u0646\u064a"
     ],
@@ -39,9 +43,6 @@
     "name:swe_x_preferred":[
         "Vanambouani"
     ],
-    "name:unk_x_variant":[
-        "Vanamboini"
-    ],
     "qs:name":"Vanambouani",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -56,7 +57,7 @@
     "wof:concordances":{
         "gn:id":921661,
         "gp:id":12512357,
-        "qs:id":275838,
+        "qs_pg:id":275838,
         "wd:id":"Q16902484"
     },
     "wof:country":"KM",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":890441285,
-    "wof:lastmodified":1563325079,
+    "wof:lastmodified":1566581572,
     "wof:name":"Vanambouani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

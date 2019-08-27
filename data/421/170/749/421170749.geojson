@@ -10,8 +10,12 @@
     "geom:latitude":-11.87361,
     "geom:longitude":43.39778,
     "iso:country":"KM",
+    "lbl:bbox":"43.37778,-11.89361,43.41778,-11.85361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0645\u0628\u064a\u0646\u064a"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Demb\u00e9ni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Djembeni"
     ],
     "qs:gn_country":"KM",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":921918,
         "gp:id":1306030,
-        "qs:id":256956,
+        "qs_pg:id":256956,
         "wd:id":"Q3022078",
         "wk:page":"Demb\u00e9ni"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421170749,
-    "wof:lastmodified":1563325077,
+    "wof:lastmodified":1566581570,
     "wof:name":"Dembeni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

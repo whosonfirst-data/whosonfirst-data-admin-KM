@@ -11,10 +11,14 @@
     "geom:longitude":43.26722,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1708,
+    "gn:population":1708,
     "iso:country":"KM",
+    "lbl:bbox":"43.24722,-11.605,43.28722,-11.565",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0443\u0441\u0438\u0432\u043e"
     ],
@@ -30,9 +34,6 @@
     "name:swe_x_preferred":[
         "Oussivo"
     ],
-    "name:unk_x_variant":[
-        "Ousivo"
-    ],
     "qs:name":"Oussivo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":921713,
         "gp:id":12512357,
-        "qs:id":130034,
+        "qs_pg:id":130034,
         "wd:id":"Q7111344"
     },
     "wof:country":"KM",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":890433489,
-    "wof:lastmodified":1563325108,
+    "wof:lastmodified":1566581587,
     "wof:name":"Oussivo",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

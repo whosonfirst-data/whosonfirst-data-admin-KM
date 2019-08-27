@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-11.727683,
     "lbl:longitude":43.318094,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-11.727683,
     "mps:longitude":43.318094,
     "mz:hierarchy_label":1,
@@ -105,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043e\u043c\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Grande Comore"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0645\u0631 \u0627\u0644\u06a9\u0628\u0631\u06cc"
     ],
@@ -183,9 +181,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-09-01",
+    "src:population_date":"2003-09-01",
     "statoids:area_km":"1,148",
     "statoids:area_mi":"443",
     "statoids:as_of_date":"2003-09-01",
@@ -210,7 +208,7 @@
         "gp:id":2345044,
         "hasc:id":"KM.GC",
         "iso:id":"KM-G",
-        "qs:id":219530,
+        "qs_pg:id":219530,
         "unlc:id":"KM-G"
     },
     "wof:country":"KM",
@@ -233,11 +231,10 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1565725143,
+    "wof:lastmodified":1566581558,
     "wof:name":"Andjaz\u00eedja",
     "wof:parent_id":85632259,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous island",
     "wof:population":295665,
     "wof:population_rank":10,

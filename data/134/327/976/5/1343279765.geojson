@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"44.5,-12.38222,44.54,-12.34222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343279765,
-    "wof:lastmodified":1537006318,
+    "wof:lastmodified":1566581558,
     "wof:name":"Bandamaji",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

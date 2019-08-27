@@ -11,10 +11,14 @@
     "geom:longitude":43.24333,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":311,
+    "gn:population":311,
     "iso:country":"KM",
+    "lbl:bbox":"43.22333,-11.77,43.26333,-11.73",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u043e\u0443\u0432\u043e\u0443\u043d\u0438"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1092368,
         "gp:id":12512358,
-        "qs:id":84134,
+        "qs_pg:id":84134,
         "wd:id":"Q16902771",
         "wk:page":"Vouvouni"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890438037,
-    "wof:lastmodified":1563325094,
+    "wof:lastmodified":1566581580,
     "wof:name":"Vouvouni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

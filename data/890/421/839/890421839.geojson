@@ -11,10 +11,14 @@
     "geom:longitude":43.40222,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":2004,
+    "gn:population":2004,
     "iso:country":"KM",
+    "lbl:bbox":"43.38222,-11.44917,43.42222,-11.40917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043d\u0446\u0438\u043d\u0434\u0437\u0438"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1091828,
         "gp:id":1306093,
-        "qs:id":130520,
+        "qs_pg:id":130520,
         "wd:id":"Q507363",
         "wk:page":"Hantsindzi"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890421839,
-    "wof:lastmodified":1563325099,
+    "wof:lastmodified":1566581583,
     "wof:name":"Hantsindzi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

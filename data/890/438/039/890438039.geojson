@@ -11,10 +11,14 @@
     "geom:longitude":43.23472,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":407,
+    "gn:population":407,
     "iso:country":"KM",
+    "lbl:bbox":"43.21472,-11.77639,43.25472,-11.73639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"S\u00e9r\u00e9hini",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":1092373,
         "gp:id":12512358,
-        "qs:id":84135
+        "qs_pg:id":84135
     },
     "wof:country":"KM",
     "wof:created":1469052177,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890438039,
-    "wof:lastmodified":1505343563,
+    "wof:lastmodified":1566581581,
     "wof:name":"S\u00e9r\u00e9hini",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

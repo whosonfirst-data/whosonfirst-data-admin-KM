@@ -11,10 +11,14 @@
     "geom:longitude":43.30667,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":957,
+    "gn:population":957,
     "iso:country":"KM",
+    "lbl:bbox":"43.28667,-11.85306,43.32667,-11.81306",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mdjoy\u00e9zi"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":921801,
         "gp:id":1306030,
-        "qs:id":83935,
+        "qs_pg:id":83935,
         "wd:id":"Q6802853",
         "wk:page":"Mdjoyezi"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890450113,
-    "wof:lastmodified":1563325110,
+    "wof:lastmodified":1566581589,
     "wof:name":"Mdjoy\u00e9zi",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

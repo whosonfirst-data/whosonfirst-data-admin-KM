@@ -11,10 +11,14 @@
     "geom:longitude":44.37028,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":3114,
+    "gn:population":3114,
     "iso:country":"KM",
+    "lbl:bbox":"44.35028,-12.21167,44.39028,-12.17167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mjimandra"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Mjimandra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u2019Jimanda"
     ],
     "qs:name":"Mjimandra",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":921783,
         "gp:id":1306111,
-        "qs:id":130044,
+        "qs_pg:id":130044,
         "wd:id":"Q6885365",
         "wk:page":"Mjimandra"
     },
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890433497,
-    "wof:lastmodified":1563325105,
+    "wof:lastmodified":1566581585,
     "wof:name":"Mjimandra",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

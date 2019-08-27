@@ -10,8 +10,12 @@
     "geom:latitude":-12.30667,
     "geom:longitude":44.43778,
     "iso:country":"KM",
+    "lbl:bbox":"44.41778,-12.32667,44.45778,-12.28667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0627"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":921764,
         "gp:id":1306109,
-        "qs:id":183313,
+        "qs_pg:id":183313,
         "wd:id":"Q786648",
         "wk:page":"Moya, Comoros"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421198505,
-    "wof:lastmodified":1563325074,
+    "wof:lastmodified":1566581569,
     "wof:name":"Moya",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

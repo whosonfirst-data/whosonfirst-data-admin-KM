@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"43.39222,-11.92028,43.43222,-11.88028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ifoundihe Amboini",
         "Ifoundih\u00e9 Chambouani"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1242786709,
-    "wof:lastmodified":1537654142,
+    "wof:lastmodified":1566581597,
     "wof:name":"Ifoundihe Chambouani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

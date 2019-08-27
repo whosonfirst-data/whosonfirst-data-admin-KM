@@ -11,10 +11,14 @@
     "geom:longitude":43.37722,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1355,
+    "gn:population":1355,
     "iso:country":"KM",
+    "lbl:bbox":"43.35722,-11.49861,43.39722,-11.45861",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bambadjani"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1091870,
         "gp:id":1306093,
-        "qs:id":130522,
+        "qs_pg:id":130522,
         "wd:id":"Q923118",
         "wk:page":"Bambadjani"
     },
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890421843,
-    "wof:lastmodified":1563325097,
+    "wof:lastmodified":1566581582,
     "wof:name":"Bambadjani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

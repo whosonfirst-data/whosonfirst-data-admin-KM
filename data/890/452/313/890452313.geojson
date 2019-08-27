@@ -11,10 +11,14 @@
     "geom:longitude":44.43702,
     "gn:country":"KM",
     "gn:fcode":"PPLR",
-    "gn:pop":8749,
+    "gn:population":8749,
     "iso:country":"KM",
+    "lbl:bbox":"44.41702,-12.33086,44.45702,-12.29086",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Mkiriwadjumoi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":8030185,
         "gp:id":1306109,
-        "qs:id":750738
+        "qs_pg:id":750738
     },
     "wof:country":"KM",
     "wof:created":1469052812,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890452313,
-    "wof:lastmodified":1505343644,
+    "wof:lastmodified":1566581578,
     "wof:name":"Mkiriwadjumoi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

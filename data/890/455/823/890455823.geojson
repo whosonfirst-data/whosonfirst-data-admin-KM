@@ -11,11 +11,15 @@
     "geom:longitude":44.50278,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":315,
+    "gn:population":315,
     "iso:country":"KM",
+    "lbl:bbox":"44.48278,-12.36639,44.52278,-12.32639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Nunga"
     ],
     "qs:name":"Nounga",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":921728,
         "gp:id":1306039,
-        "qs:id":555012
+        "qs_pg:id":555012
     },
     "wof:country":"KM",
     "wof:created":1469052976,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890455823,
-    "wof:lastmodified":1505343666,
+    "wof:lastmodified":1566581579,
     "wof:name":"Nounga",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

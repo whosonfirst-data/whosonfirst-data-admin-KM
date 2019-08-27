@@ -11,11 +11,14 @@
     "geom:longitude":44.44121,
     "gn:country":"KM",
     "gn:fcode":"FLD",
-    "gn:pop":200,
+    "gn:population":200,
     "iso:country":"KM",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Marani"
     ],
@@ -38,7 +41,7 @@
     "wof:concordances":{
         "gn:id":8030184,
         "gp:id":1306109,
-        "qs:id":750737,
+        "qs_pg:id":750737,
         "wk:page":"Marani"
     },
     "wof:country":"KM",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890452311,
-    "wof:lastmodified":1564183945,
+    "wof:lastmodified":1566581578,
     "wof:name":"Marani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

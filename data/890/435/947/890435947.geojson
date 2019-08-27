@@ -11,10 +11,14 @@
     "geom:longitude":44.26944,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":2160,
+    "gn:population":2160,
     "iso:country":"KM",
+    "lbl:bbox":"44.24944,-12.21194,44.28944,-12.17194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kavani"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1090919,
         "gp:id":1306141,
-        "qs:id":1029705,
+        "qs_pg:id":1029705,
         "wd:id":"Q6379102",
         "wk:page":"Kavani"
     },
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890435947,
-    "wof:lastmodified":1563325112,
+    "wof:lastmodified":1566581591,
     "wof:name":"Kavani",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",
