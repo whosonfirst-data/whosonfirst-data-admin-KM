@@ -11,10 +11,14 @@
     "geom:longitude":43.3875,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":2322,
+    "gn:population":2322,
     "iso:country":"KM",
+    "lbl:bbox":"43.3675,-11.44806,43.4075,-11.40806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chezani"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Chezani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cezani"
     ],
     "qs:name":"Chezani",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":921944,
         "gp:id":1306093,
-        "qs:id":1029395,
+        "qs_pg:id":1029395,
         "wd:id":"Q2963196",
         "wk:page":"Chezani"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890443481,
-    "wof:lastmodified":1563325100,
+    "wof:lastmodified":1566581584,
     "wof:name":"Chezani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"43.61417,-12.28806,43.65417,-12.24806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kobela"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243079183,
-    "wof:lastmodified":1564183951,
+    "wof:lastmodified":1566581593,
     "wof:name":"Kobela",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

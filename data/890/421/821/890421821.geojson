@@ -11,10 +11,14 @@
     "geom:longitude":43.26139,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":3799,
+    "gn:population":3799,
     "iso:country":"KM",
+    "lbl:bbox":"43.24139,-11.67972,43.28139,-11.63972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ntsoudjini"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Ntsoudjini"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsudjin"
     ],
     "qs:name":"Ntsoudjini",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":921729,
         "gp:id":1306106,
-        "qs:id":130037,
+        "qs_pg:id":130037,
         "wd:id":"Q7067659",
         "wk:page":"Ntsoudjini"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890421821,
-    "wof:lastmodified":1563325097,
+    "wof:lastmodified":1566581582,
     "wof:name":"Ntsoudjini",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

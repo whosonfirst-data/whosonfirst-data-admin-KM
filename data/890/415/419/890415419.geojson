@@ -11,10 +11,14 @@
     "geom:longitude":44.44167,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":4929,
+    "gn:population":4929,
     "iso:country":"KM",
+    "lbl:bbox":"44.42167,-12.19139,44.46167,-12.15139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Koki"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":921838,
         "gp:id":1306111,
-        "qs:id":130049,
+        "qs_pg:id":130049,
         "wd:id":"Q6426611"
     },
     "wof:country":"KM",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890415419,
-    "wof:lastmodified":1561778389,
+    "wof:lastmodified":1566581573,
     "wof:name":"Koki",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

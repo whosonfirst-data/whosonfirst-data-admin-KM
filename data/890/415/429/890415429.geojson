@@ -11,10 +11,14 @@
     "geom:longitude":43.37972,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1463,
+    "gn:population":1463,
     "iso:country":"KM",
+    "lbl:bbox":"43.35972,-11.56389,43.39972,-11.52389",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0631\u0648\u0645\u0628\u06cc\u0644\u06cc"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "H\u00e9roumbili"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iroumbili"
     ],
     "qs:name":"H\u00e9roumbili",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":921858,
         "gp:id":1306093,
-        "qs:id":130053,
+        "qs_pg:id":130053,
         "wd:id":"Q3134319",
         "wk:page":"Heroumbili"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890415429,
-    "wof:lastmodified":1563325083,
+    "wof:lastmodified":1566581574,
     "wof:name":"H\u00e9roumbili",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.27806,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1320,
+    "gn:population":1320,
     "iso:country":"KM",
+    "lbl:bbox":"43.25806,-11.84167,43.29806,-11.80167",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Madjeou\u00e9ni"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1092516,
         "gp:id":12512358,
-        "qs:id":130553,
+        "qs_pg:id":130553,
         "wd:id":"Q6728252",
         "wk:page":"Madj\u00e9ou\u00e9ni"
     },
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890415463,
-    "wof:lastmodified":1563325081,
+    "wof:lastmodified":1566581573,
     "wof:name":"Madjeou\u00e9ni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.405,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":476,
+    "gn:population":476,
     "iso:country":"KM",
+    "lbl:bbox":"43.385,-11.70667,43.425,-11.66667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ntsoral\u00e9"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1092163,
         "gp:id":1306106,
-        "qs:id":84133,
+        "qs_pg:id":84133,
         "wd:id":"Q7067658",
         "wk:page":"Ntsoral\u00e9"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890438035,
-    "wof:lastmodified":1563325095,
+    "wof:lastmodified":1566581581,
     "wof:name":"Ntsoral\u00e9",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

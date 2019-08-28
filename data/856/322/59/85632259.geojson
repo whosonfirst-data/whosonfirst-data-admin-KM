@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-11.727683,
     "lbl:longitude":43.318094,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-11.727683,
     "mps:longitude":43.318094,
     "mz:hierarchy_label":1,
@@ -822,18 +824,8 @@
         "\u041a\u043e\u043c\u043e\u0440\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
         "\u041a\u043e\u043c\u043e\u0440\u0438"
     ],
-    "name:und_x_preferred":[
-        "Islamska zvezna republika Komori"
-    ],
     "name:und_x_variant":[
-        "Comorerne",
-        "Comores",
-        "Federal Islamic Republic of the Comoros",
-        "Komorene",
-        "Komori",
-        "Komorit"
-    ],
-    "name:unk_x_variant":[
+        "Islamska zvezna republika Komori",
         "Udzima wa Komori"
     ],
     "name:urd_x_preferred":[
@@ -994,7 +986,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"269",
     "statoids:ds":"KM",
@@ -1014,7 +1006,6 @@
     "wd:longitude":44.233333,
     "wd:population":734917,
     "wd:wordcount":6296,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191573
     ],
@@ -1040,7 +1031,7 @@
         "mzb:id":"comoros",
         "ne:adm0_a3":"COM",
         "nyt:id":"48649631422074057761",
-        "qs:id":83945,
+        "qs_pg:id":83945,
         "uncrt:id":"KM",
         "wd:id":"Q970",
         "wk:page":"Comoros",
@@ -1066,7 +1057,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1565725142,
+    "wof:lastmodified":1566581558,
     "wof:name":"Comoros",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

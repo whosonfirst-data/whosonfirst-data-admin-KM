@@ -11,10 +11,14 @@
     "geom:longitude":44.31972,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1112,
+    "gn:population":1112,
     "iso:country":"KM",
+    "lbl:bbox":"44.29972,-12.25306,44.33972,-12.21306",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0622\u0633\u06cc\u0645\u067e\u0627\u0626\u0648"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":921996,
         "gp:id":1306141,
-        "qs:id":130060,
+        "qs_pg:id":130060,
         "wd:id":"Q2867178",
         "wk:page":"Assimpao"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890415443,
-    "wof:lastmodified":1563325083,
+    "wof:lastmodified":1566581574,
     "wof:name":"Assimpao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

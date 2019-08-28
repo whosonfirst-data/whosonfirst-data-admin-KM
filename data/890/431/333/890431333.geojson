@@ -11,10 +11,14 @@
     "geom:longitude":43.25917,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1662,
+    "gn:population":1662,
     "iso:country":"KM",
+    "lbl:bbox":"43.23917,-11.82806,43.27917,-11.78806",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0438\u043c\u0430\u043d\u0438"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Salimani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selimani"
     ],
     "qs:name":"Salimani",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":921687,
         "gp:id":12512358,
-        "qs:id":275840,
+        "qs_pg:id":275840,
         "wd:id":"Q7404606",
         "wk:page":"Salimani"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890431333,
-    "wof:lastmodified":1563325093,
+    "wof:lastmodified":1566581580,
     "wof:name":"Salimani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

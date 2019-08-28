@@ -11,10 +11,14 @@
     "geom:longitude":43.48111,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1471,
+    "gn:population":1471,
     "iso:country":"KM",
+    "lbl:bbox":"43.46111,-11.94083,43.50111,-11.90083",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0438\u043d\u0434\u0438\u043d\u0438"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Chindini"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shendini"
     ],
     "qs:name":"Chindini",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":921942,
         "gp:id":1306045,
-        "qs:id":1029393,
+        "qs_pg:id":1029393,
         "wd:id":"Q2963751",
         "wk:page":"Chindini"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890443479,
-    "wof:lastmodified":1563325099,
+    "wof:lastmodified":1566581583,
     "wof:name":"Chindini",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

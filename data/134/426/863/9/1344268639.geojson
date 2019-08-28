@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"43.64917,-12.27083,43.68917,-12.23083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1344268639,
-    "wof:lastmodified":1537069275,
+    "wof:lastmodified":1566581557,
     "wof:name":"Gnambo Yamaore",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

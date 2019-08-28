@@ -11,11 +11,15 @@
     "geom:longitude":44.43722,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1498,
+    "gn:population":1498,
     "iso:country":"KM",
+    "lbl:bbox":"44.41722,-12.17556,44.45722,-12.13556",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Patsy"
     ],
     "qs:name":"Patsi",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":921703,
         "gp:id":1306111,
-        "qs:id":275841
+        "qs_pg:id":275841
     },
     "wof:country":"KM",
     "wof:created":1469051887,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890431337,
-    "wof:lastmodified":1505343523,
+    "wof:lastmodified":1566581579,
     "wof:name":"Patsi",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

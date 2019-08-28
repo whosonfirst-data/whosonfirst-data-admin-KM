@@ -11,10 +11,14 @@
     "geom:longitude":43.70361,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1410,
+    "gn:population":1410,
     "iso:country":"KM",
+    "lbl:bbox":"43.68361,-12.28111,43.72361,-12.24111",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mtakoudja"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1090583,
         "gp:id":1306043,
-        "qs:id":130503,
+        "qs_pg:id":130503,
         "wd:id":"Q6930410",
         "wk:page":"Mtakoudja"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890433581,
-    "wof:lastmodified":1563325106,
+    "wof:lastmodified":1566581586,
     "wof:name":"Mtakoudja",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

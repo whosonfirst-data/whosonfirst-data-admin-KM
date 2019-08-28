@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"43.24222,-11.58083,43.28222,-11.54083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Haha\u00efa"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293296095,
-    "wof:lastmodified":1537654143,
+    "wof:lastmodified":1566581561,
     "wof:name":"Hahaia",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

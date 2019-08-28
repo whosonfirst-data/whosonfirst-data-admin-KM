@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"43.78,-12.32,43.82,-12.28",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Babani"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1226057493,
-    "wof:lastmodified":1564183962,
+    "wof:lastmodified":1566581603,
     "wof:name":"Babani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

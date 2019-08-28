@@ -11,10 +11,14 @@
     "geom:longitude":43.7975,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":2401,
+    "gn:population":2401,
     "iso:country":"KM",
+    "lbl:bbox":"43.7775,-12.3575,43.8175,-12.3175",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u0646\u0627\u0646\u064a"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Wanani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oanani"
     ],
     "qs:name":"Ouanani",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":921654,
         "gp:id":12512356,
-        "qs:id":275836,
+        "qs_pg:id":275836,
         "wd:id":"Q2014425",
         "wk:page":"Wanani"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890441281,
-    "wof:lastmodified":1563325078,
+    "wof:lastmodified":1566581571,
     "wof:name":"Ouanani",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

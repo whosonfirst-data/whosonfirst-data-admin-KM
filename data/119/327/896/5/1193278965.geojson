@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"43.24889,-11.68833,43.28889,-11.64833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Samba"
     ],
@@ -250,7 +254,7 @@
         }
     ],
     "wof:id":1193278965,
-    "wof:lastmodified":1564183937,
+    "wof:lastmodified":1566581565,
     "wof:name":"Samba",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

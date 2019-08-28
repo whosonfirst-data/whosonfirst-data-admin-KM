@@ -12,6 +12,8 @@
     "iso:country":"KM",
     "lbl:latitude":-11.70216,
     "lbl:longitude":43.25506,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -502,7 +504,7 @@
     "wof:concordances":{
         "gn:id":921772,
         "gp:id":1306106,
-        "qs:id":492787,
+        "qs_pg:id":492787,
         "wd:id":"Q3901",
         "wk:page":"Moroni, Comoros"
     },
@@ -518,7 +520,7 @@
         }
     ],
     "wof:id":421195687,
-    "wof:lastmodified":1563325072,
+    "wof:lastmodified":1566581569,
     "wof:name":"Moroni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

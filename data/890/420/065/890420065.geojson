@@ -11,10 +11,14 @@
     "geom:longitude":43.27722,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":733,
+    "gn:population":733,
     "iso:country":"KM",
+    "lbl:bbox":"43.25722,-11.5925,43.29722,-11.5525",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Bibavou",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":1092024,
         "gp:id":12512357,
-        "qs:id":84125
+        "qs_pg:id":84125
     },
     "wof:country":"KM",
     "wof:created":1469051315,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890420065,
-    "wof:lastmodified":1505343454,
+    "wof:lastmodified":1566581584,
     "wof:name":"Bibavou",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

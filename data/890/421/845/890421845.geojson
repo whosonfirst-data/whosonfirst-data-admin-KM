@@ -11,10 +11,14 @@
     "geom:longitude":43.37389,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":1013,
+    "gn:population":1013,
     "iso:country":"KM",
+    "lbl:bbox":"43.35389,-11.53778,43.39389,-11.49778",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Mnoungou",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":1091996,
         "gp:id":1306093,
-        "qs:id":130523
+        "qs_pg:id":130523
     },
     "wof:country":"KM",
     "wof:created":1469051415,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890421845,
-    "wof:lastmodified":1505343466,
+    "wof:lastmodified":1566581582,
     "wof:name":"Mnoungou",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

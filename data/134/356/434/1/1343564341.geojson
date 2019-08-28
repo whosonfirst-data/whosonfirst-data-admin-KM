@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Comoro",
     "iso:country":"KM",
+    "lbl:bbox":"43.24028,-11.68611,43.28028,-11.64611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343564341,
-    "wof:lastmodified":1537090624,
+    "wof:lastmodified":1566581557,
     "wof:name":"Bandamadji",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

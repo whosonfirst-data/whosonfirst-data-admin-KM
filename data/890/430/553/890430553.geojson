@@ -11,10 +11,14 @@
     "geom:longitude":43.82,
     "gn:country":"KM",
     "gn:fcode":"PPL",
-    "gn:pop":856,
+    "gn:population":856,
     "iso:country":"KM",
+    "lbl:bbox":"43.8,-12.36278,43.84,-12.32278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kangani"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kangani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kangam"
     ],
     "qs:name":"Kangani",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":921846,
         "gp:id":12512356,
-        "qs:id":83938,
+        "qs_pg:id":83938,
         "wd:id":"Q2786757",
         "wk:page":"Kangani"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890430553,
-    "wof:lastmodified":1563325088,
+    "wof:lastmodified":1566581577,
     "wof:name":"Kangani",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",
