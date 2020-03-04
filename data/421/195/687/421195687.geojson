@@ -510,6 +510,9 @@
     },
     "wof:country":"KM",
     "wof:created":1459009856,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e071995bb10a0f3ef3894791bd88e33",
     "wof:hierarchy":[
         {
@@ -520,7 +523,7 @@
         }
     ],
     "wof:id":421195687,
-    "wof:lastmodified":1566581569,
+    "wof:lastmodified":1582347048,
     "wof:name":"Moroni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",
