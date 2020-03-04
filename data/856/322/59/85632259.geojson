@@ -983,7 +983,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
-        "naturalearth",
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
@@ -1063,7 +1062,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1582347047,
+    "wof:lastmodified":1583226658,
     "wof:name":"Comoros",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
