@@ -271,7 +271,6 @@
         "Iles Comores"
     ],
     "name:fra_x_preferred":[
-        "Comores (pays)",
         "Comores"
     ],
     "name:fra_x_variant":[
@@ -282,7 +281,8 @@
         "Territoire des Comores",
         "R\u00e9publique F\u00e9d\u00e9rale Islamique des Comores",
         "R\u00e9publique F\u00e9d\u00e9rale et Islamique des Comores",
-        "R\u00e9publique des Comores"
+        "R\u00e9publique des Comores",
+        "Comores (pays)"
     ],
     "name:frp_x_preferred":[
         "Comores (payis)",
@@ -1111,7 +1111,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1587428031,
+    "wof:lastmodified":1614893624,
     "wof:name":"Comoros",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
