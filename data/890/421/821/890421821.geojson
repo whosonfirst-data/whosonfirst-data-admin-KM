@@ -25,6 +25,18 @@
     "name:eng_x_preferred":[
         "Ntsoudjini"
     ],
+    "name:eng_x_variant":[
+        "N'Tsoudjini"
+    ],
+    "name:fra_x_preferred":[
+        "N'Tsoudjini"
+    ],
+    "name:ind_x_preferred":[
+        "N'Tsoudjini"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30c4\u30f4\u30a9\u30b8\u30cb"
+    ],
     "name:nld_x_preferred":[
         "Ntsoudjini"
     ],
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":890421821,
-    "wof:lastmodified":1566581582,
+    "wof:lastmodified":1690938185,
     "wof:name":"Ntsoudjini",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

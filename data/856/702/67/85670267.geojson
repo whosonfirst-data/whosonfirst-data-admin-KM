@@ -81,6 +81,9 @@
     "name:eus_x_preferred":[
         "Moheli"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0647\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Moh\u00e9li"
     ],
@@ -103,6 +106,9 @@
         "\u092e\u094b\u0939\u0932\u0940"
     ],
     "name:hrv_x_preferred":[
+        "Moh\u00e9li"
+    ],
+    "name:hun_x_preferred":[
         "Moh\u00e9li"
     ],
     "name:ind_x_preferred":[
@@ -131,6 +137,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0939\u0940\u0932\u093f"
+    ],
+    "name:mlg_x_preferred":[
+        "Moaly"
     ],
     "name:msa_x_preferred":[
         "Moh\u00e9li"
@@ -323,7 +332,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1614893624,
+    "wof:lastmodified":1690938173,
     "wof:name":"Mo\u00fbh\u00eel\u00ee",
     "wof:parent_id":85632259,
     "wof:placetype":"region",

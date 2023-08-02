@@ -19,7 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0632\u064a\u0627\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0632\u064a\u0627\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
+        "Dziani"
+    ],
+    "name:deu_x_preferred":[
         "Dziani"
     ],
     "name:eng_x_preferred":[
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":890415433,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1690938180,
     "wof:name":"Dziani",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

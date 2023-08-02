@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u064a\u0632\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u064a\u0632\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Djoy\u00e9zi"
+    ],
+    "name:deu_x_preferred":[
+        "Djoiezi"
     ],
     "name:eng_x_preferred":[
         "Djoi\u00e8zi"
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890431341,
-    "wof:lastmodified":1566581580,
+    "wof:lastmodified":1690938183,
     "wof:name":"Djoy\u00e9zi",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0631\u0648\u062f\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u064a\u0631\u0648\u062f\u0627\u0646\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0438\u0440\u043e\u0443\u0434\u0430\u043d\u0438"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890433583,
-    "wof:lastmodified":1566581587,
+    "wof:lastmodified":1690938190,
     "wof:name":"Ziroudani",
     "wof:parent_id":85670267,
     "wof:placetype":"locality",

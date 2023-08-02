@@ -22,13 +22,28 @@
     "name:afr_x_preferred":[
         "Moroni"
     ],
+    "name:aka_x_preferred":[
+        "Moroni"
+    ],
     "name:amh_x_preferred":[
         "\u121e\u122e\u1292"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0646\u064a"
     ],
+    "name:arg_x_preferred":[
+        "Moroni"
+    ],
+    "name:ary_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646\u0649"
+    ],
     "name:ast_x_preferred":[
+        "Moroni"
+    ],
+    "name:avk_x_preferred":[
         "Moroni"
     ],
     "name:azb_x_preferred":[
@@ -37,11 +52,17 @@
     "name:aze_x_preferred":[
         "Moroni"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u043d\u0438"
+    ],
     "name:bam_x_preferred":[
         "M\u0254r\u0254ni"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0440\u043e\u043d\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0440\u043e\u043d\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u09cb\u09a8\u09bf"
@@ -86,6 +107,9 @@
         "Moroni"
     ],
     "name:deu_x_preferred":[
+        "Moroni"
+    ],
+    "name:diq_x_preferred":[
         "Moroni"
     ],
     "name:ell_x_preferred":[
@@ -137,6 +161,9 @@
         "Moroni"
     ],
     "name:hat_x_preferred":[
+        "Moroni"
+    ],
+    "name:hau_x_preferred":[
         "Moroni"
     ],
     "name:heb_x_preferred":[
@@ -205,6 +232,9 @@
     "name:lav_x_preferred":[
         "Moroni"
     ],
+    "name:lij_x_preferred":[
+        "Moroni"
+    ],
     "name:lit_x_preferred":[
         "Moronis"
     ],
@@ -220,14 +250,23 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u094b\u0928\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u043d\u0438"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0440\u043e\u043d\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "Moroni"
     ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u0440\u043e\u043d\u0438"
     ],
     "name:msa_x_preferred":[
         "Moroni"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646\u06cc"
     ],
     "name:nah_x_preferred":[
         "Moroni"
@@ -253,6 +292,12 @@
     "name:oci_x_preferred":[
         "Mor\u00f2ni"
     ],
+    "name:olo_x_preferred":[
+        "Moroni"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u043d\u0438"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a4b\u0a30\u0a4b\u0a28\u0a40"
     ],
@@ -267,6 +312,9 @@
     ],
     "name:por_x_preferred":[
         "Moroni"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646\u06cc"
     ],
     "name:que_x_preferred":[
         "Muruni"
@@ -289,6 +337,9 @@
     "name:slv_x_preferred":[
         "Moroni"
     ],
+    "name:smn_x_preferred":[
+        "Moroni"
+    ],
     "name:sna_x_preferred":[
         "Moroni"
     ],
@@ -299,6 +350,9 @@
         "Moroni"
     ],
     "name:sqi_x_preferred":[
+        "Moroni"
+    ],
+    "name:srd_x_preferred":[
         "Moroni"
     ],
     "name:srp_x_preferred":[
@@ -525,7 +579,7 @@
         }
     ],
     "wof:id":421195687,
-    "wof:lastmodified":1607390893,
+    "wof:lastmodified":1690938174,
     "wof:name":"Moroni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

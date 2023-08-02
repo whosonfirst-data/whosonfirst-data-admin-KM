@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a8\u09cd\u09a1\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Panda"
+    ],
     "name:deu_x_preferred":[
         "Panda"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890455819,
-    "wof:lastmodified":1636501335,
+    "wof:lastmodified":1690938182,
     "wof:name":"Panda",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

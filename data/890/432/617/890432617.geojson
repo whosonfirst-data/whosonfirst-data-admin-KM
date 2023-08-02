@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u0627\u0645\u0628\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0644\u0627\u0645\u0628\u0646\u0649"
+    ],
+    "name:ceb_x_preferred":[
+        "Milemb\u00e9ni"
+    ],
     "name:eng_x_preferred":[
         "Mil\u00e9mb\u00e9ni"
     ],
     "name:nld_x_preferred":[
         "Mil\u00e9mb\u00e9ni"
+    ],
+    "name:swe_x_preferred":[
+        "Milemb\u00e9ni"
     ],
     "qs:name":"Milemb\u00e9ni",
     "qs:photos_9r":0,
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":890432617,
-    "wof:lastmodified":1566581589,
+    "wof:lastmodified":1690938190,
     "wof:name":"Milemb\u00e9ni",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",
