@@ -37,6 +37,9 @@
     "name:ita_x_preferred":[
         "Mvouni"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30f4\u30cb"
+    ],
     "name:nld_x_preferred":[
         "Mvouni"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890433601,
-    "wof:lastmodified":1566581587,
+    "wof:lastmodified":1690938190,
     "wof:name":"Mvouni",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",

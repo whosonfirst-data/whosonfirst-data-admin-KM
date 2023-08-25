@@ -22,7 +22,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0627\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
+        "Ouani"
+    ],
+    "name:deu_x_preferred":[
         "Ouani"
     ],
     "name:eng_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890438465,
-    "wof:lastmodified":1566581581,
+    "wof:lastmodified":1690938184,
     "wof:name":"Ouani",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

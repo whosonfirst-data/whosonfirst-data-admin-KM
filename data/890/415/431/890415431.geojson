@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0627\u0646\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0430\u043d\u0438"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890415431,
-    "wof:lastmodified":1566581573,
+    "wof:lastmodified":1690938178,
     "wof:name":"Hoani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

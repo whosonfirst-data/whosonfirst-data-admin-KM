@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Vassy"
     ],
+    "name:deu_x_preferred":[
+        "Vassy"
+    ],
     "name:eng_x_preferred":[
         "Vassi"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890455811,
-    "wof:lastmodified":1566581578,
+    "wof:lastmodified":1690938182,
     "wof:name":"Vassy",
     "wof:parent_id":85670277,
     "wof:placetype":"locality",

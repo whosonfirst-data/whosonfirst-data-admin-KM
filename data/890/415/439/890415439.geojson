@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0645\u0628\u064a\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0645\u0628\u064a\u0646\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0645\u0628\u06cc\u0646\u06cc"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890415439,
-    "wof:lastmodified":1566581573,
+    "wof:lastmodified":1690938178,
     "wof:name":"Bimbini",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

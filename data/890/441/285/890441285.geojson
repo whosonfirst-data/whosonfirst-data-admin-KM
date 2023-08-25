@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u0627\u0645\u0628\u0648\u064a\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0646\u0627\u0645\u0628\u0648\u064a\u0646\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0646\u0645\u0628\u06cc\u0646\u06cc"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890441285,
-    "wof:lastmodified":1566581572,
+    "wof:lastmodified":1690938177,
     "wof:name":"Vanambouani",
     "wof:parent_id":85670273,
     "wof:placetype":"locality",
