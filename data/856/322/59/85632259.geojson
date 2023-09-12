@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14028,
-    "geom:area_square_m":1697313493.810444,
+    "geom:area_square_m":1697313493.81046,
     "geom:bbox":"43.226212,-12.421856,44.547905,-11.365994",
     "geom:latitude":-11.895698,
     "geom:longitude":43.686011,
@@ -14,6 +14,9 @@
     "iso:country":"KM",
     "itu:country_code":[
         "269"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KM"
@@ -1183,7 +1186,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"269",
     "statoids:ds":"KM",
     "statoids:fifa":"COM",
@@ -1242,7 +1246,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"30f8ebf0e9b8b62a22da9fe2b75c9616",
+    "wof:geomhash":"b9b11eb5dcf3890793b5441ece43f174",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1260,12 +1264,12 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1690938173,
+    "wof:lastmodified":1694492079,
     "wof:name":"Comoros",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":734917,
-    "wof:population_rank":11,
+    "wof:population":850886,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-km",
     "wof:shortcode":"KM",
     "wof:superseded_by":[],
