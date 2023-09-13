@@ -1187,7 +1187,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"269",
     "statoids:ds":"KM",
     "statoids:fifa":"COM",
@@ -1264,7 +1264,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1694492079,
+    "wof:lastmodified":1694639532,
     "wof:name":"Comoros",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
