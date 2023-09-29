@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016534,
-    "geom:area_square_m":199746434.459844,
+    "geom:area_square_m":199747282.588966,
     "geom:bbox":"43.629893,-12.373468,43.861583,-12.236912",
     "geom:latitude":-12.314737,
     "geom:longitude":43.728401,
@@ -307,13 +307,15 @@
         "gn:id":921780,
         "gp:id":2345045,
         "hasc:id":"KM.MO",
+        "iso:code":"KM-M",
         "iso:id":"KM-M",
         "qs_pg:id":229367,
         "wd:id":"Q271797",
         "wk:page":"Moh\u00e9li"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KM",
-    "wof:geomhash":"bcd5f26b378b38210c426224d7b9a18d",
+    "wof:geomhash":"e841a8a9afc9d12820622dca651d52b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -332,7 +334,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1690938173,
+    "wof:lastmodified":1695884501,
     "wof:name":"Mo\u00fbh\u00eel\u00ee",
     "wof:parent_id":85632259,
     "wof:placetype":"region",

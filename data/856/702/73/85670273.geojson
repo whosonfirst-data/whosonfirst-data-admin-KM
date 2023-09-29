@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084952,
-    "geom:area_square_m":1028783101.365624,
+    "geom:area_square_m":1028781970.349017,
     "geom:bbox":"43.213227,-11.932875,43.49879,-11.361261",
     "geom:latitude":-11.655424,
     "geom:longitude":43.339728,
@@ -208,12 +208,14 @@
         "gn:id":921882,
         "gp:id":2345044,
         "hasc:id":"KM.GC",
+        "iso:code":"KM-G",
         "iso:id":"KM-G",
         "qs_pg:id":219530,
         "unlc:id":"KM-G"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KM",
-    "wof:geomhash":"de2fef453217f4ec07485123249d0b59",
+    "wof:geomhash":"2b12c5629cd18b2281a1a0b6af8c9557",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -232,7 +234,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1614893624,
+    "wof:lastmodified":1695884501,
     "wof:name":"Andjaz\u00eedja",
     "wof:parent_id":85632259,
     "wof:placetype":"region",

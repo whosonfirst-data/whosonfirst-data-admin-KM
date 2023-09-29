@@ -1225,6 +1225,7 @@
         "hasc:id":"KM",
         "icao:code":"D6",
         "ioc:id":"COM",
+        "iso:code":"KM",
         "itu:id":"COM",
         "loc:id":"n80033810",
         "m49:code":"174",
@@ -1239,6 +1240,7 @@
         "wk:page":"Comoros",
         "wmo:id":"IC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KM",
     "wof:country_alpha3":"COM",
     "wof:geom_alt":[
@@ -1264,7 +1266,7 @@
         "fra",
         "zdj"
     ],
-    "wof:lastmodified":1694639532,
+    "wof:lastmodified":1695881189,
     "wof:name":"Comoros",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
